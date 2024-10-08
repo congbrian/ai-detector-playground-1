@@ -1,0 +1,9 @@
+[submodule "Binoculars"]
+	path = Binoculars
+	url = https://github.com/ahans30/Binoculars.git
+[submodule "ghostbuster"]
+	path = ghostbuster
+	url = https://github.com/vivek3141/ghostbuster.git
+[submodule "raid"]
+	path = raid
+	url = https://github.com/liamdugan/raid.git
