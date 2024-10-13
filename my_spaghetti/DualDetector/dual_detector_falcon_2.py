@@ -93,6 +93,19 @@ class DualDetector_2:
 
         return ppl
 
+    def per_token_perplexity(self, encoding, logits):
+        shifted_logits = logits[..., :-1, :].contiguous() / self.temperature
+        shifted_labels = encoding.input_ids[..., 1:].contiguous()
+        shifted_attention_mask = encoding.attention_mask[..., 1:].contiguous()
+
+        # from ce_nan
+        ce_loss_masked = self.ce_loss_fn(shifted_logits.transpose(1, 2), shifted_labels).masked_fill(~shifted_attention_mask.bool(), float("nan"))
+        # wrapped to torch exponent (tensor) specifically because the entropy is tensor
+        perplexities = torch.exp(ce_loss_masked)
+        # could also just return ce_loss_masked
+        # return ce_loss_masked
+        return perplexities
+
     def entropy(self, p_logits, q_logits, encoding):
         # from bino metrics, excludes pad token, median, sample p, and temp as included in self.
         vocab_size = p_logits.shape[-1]
@@ -117,6 +130,37 @@ class DualDetector_2:
 
         return agg_ce
 
+    def per_token_entropy(self, p_logits, q_logits, encoding):
+        # this works more or less like the og entropy but EXPERIMENTAL.
+        vocab_size = p_logits.shape[-1]
+        # exclude total_tokens_available
+        # exclude last token, but still use temp scaling
+        p_scores = p_logits[..., :-1, :] / self.temperature
+        q_scores = q_logits[..., :-1, :] / self.temperature
+        
+        # p to probability [0-1]
+        p_proba = self.softmax_fn(p_scores)
+        
+        if self.sample_p:
+            # sample from the probability distribution FOR EACH POSITION
+            # I have not tested this. It doesn't get called
+            p_proba = torch.multinomial(p_proba.view(-1, vocab_size), replacement=True, num_samples=1).view(p_proba.shape[:-1])
+        else:
+            # otherwise use argmax to find vocab dim
+            p_proba = p_proba.argmax(dim=-1)
+        
+        # cross entropy loss across each token pos
+        ce = self.ce_loss_fn(q_scores.transpose(1, 2), p_proba)
+        # exclude padding tokens, shifted by 1.
+        padding_mask = (encoding.input_ids[..., 1:] != self.tokenizer.pad_token_id).type(torch.uint8)
+        
+        # mask on NaN
+        ce_masked = ce.masked_fill(~padding_mask.bool(), float("nan"))
+
+        # don't need the rest probably
+        
+        return ce_masked
+
     # removed calls to DEVICE_1
     def compute_score(self, input_text: Union[str, list[str]]) -> list[float]:
         batch = [input_text] if isinstance(input_text, str) else input_text
@@ -128,6 +172,24 @@ class DualDetector_2:
 
         binoculars_scores = (ppl / x_ppl).tolist()  # Convert to list here
         return binoculars_scores if isinstance(input_text, list) else [binoculars_scores[0]]
+
+    def per_token_compute_score(self, input_text: Union[str, list[str]]) -> Union[torch.Tensor, list[torch.Tensor]]:
+        # it was angry at me so results are tensors.
+        batch = [input_text] if isinstance(input_text, str) else input_text
+        encodings = self._tokenize(batch)
+        observer_logits, performer_logits = self._get_logits(encodings)
+
+        ppl = self.per_token_perplexity(encodings, performer_logits)
+        x_ppl = self.per_token_entropy(observer_logits, performer_logits, encodings)
+
+        # Calculate the ratio for each token
+        token_ratios = ppl / x_ppl
+
+        if isinstance(input_text, str):
+            return ppl[0], x_ppl[0], token_ratios[0]
+        else:
+            # I have not tested this.
+            return list(zip(ppl, x_ppl, token_ratios))
     
     def predict(self, input_text: Union[str, list[str]]) -> Union[str, list[str]]:
         binoculars_scores = np.array(self.compute_score(input_text))
@@ -139,20 +201,24 @@ class DualDetector_2:
 
 
 # Result
-# detector = DualDetector_2(use_bfloat16=True)
+detector = DualDetector_2(use_bfloat16=True)
 
-# sample_texts = [
-#     "I am a paste salesman, would you like to buy paste?",
-#     "The quick brown fox jumps over the lazy dog.",
-#     "Artificial intelligence is revolutionizing various industries and transforming the way we live and work.",
-#     "In a groundbreaking study, researchers have discovered a new species of deep-sea creature that defies current understanding of marine biology.",
-#     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-#     "Dr. Capy Cosmos, a capybara unlike any other, astounded the scientific community with his groundbreaking research in astrophysics. With his keen sense of observation and unparalleled ability to interpret cosmic data, he uncovered new insights into the mysteries of black holes and the origins of the universe. As he peered through telescopes with his large, round eyes, fellow researchers often remarked that it seemed as if the stars themselves whispered their secrets directly to him. Dr. Cosmos not only became a beacon of inspiration to aspiring scientists but also proved that intellect and innovation can be found in the most unexpected of creatures.",
-#     "World of Warcraft (often abbreviated as WoW) is a massively multiplayer online role-playing game (MMORPG) by Blizzard Entertainment. This subreddit is dedicated to the discussion of things in and around the game. We are not directly affiliated with Blizzard (though we have a friendly relationship with them!) and we are not a replacement for the official forums, but instead a way to interact with your favourite game while on your favourite website."
-#     "extensive amount of data generated by today's clinical systems, has led to the development of imaging AI solutions across the whole value chain of medical imaging, including image reconstruction, medical image segmentation, image-based diagnosis and treatment planning. Notwithstanding the successes and future potential of AI in medical imaging, many stakeholders are concerned of the potential risks and ethical implications of imaging AI solutions, which are perceived as complex, opaque, and difficult to comprehend, utilise, and trust in critical clinical applications. Despite these concerns and risks, there are currently no concrete guidelines and best practices for guiding future AI developments in medical imaging towards increased trust, safety and adoption. To bridge this gap, this paper introduces a careful selection of guiding principles drawn from the accumulated experiences, consensus, and best practices from five large European projects on AI in Health Imaging. These guiding principles are named FUTURE-AI and its building blocks consist of (i) Fairness, (ii) Universality, (iii) Traceability, (iv) Usability, (v) Robustness and (vi) Explainability. In a step-by-step approach, these guidelines are further translated into a framework of concrete recommendations for specifying, developing, evaluating, and deploying technically, clinically and ethically trustworthy AI solutions into clinical practice."
-# ]
+sample_texts = [
+    "I am a paste salesman, would you like to buy paste?",
+    "The quick brown fox jumps over the lazy dog.",
+    "Artificial intelligence is revolutionizing various industries and transforming the way we live and work.",
+    "In a groundbreaking study, researchers have discovered a new species of deep-sea creature that defies current understanding of marine biology.",
+    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Dr. Capy Cosmos, a capybara unlike any other, astounded the scientific community with his groundbreaking research in astrophysics. With his keen sense of observation and unparalleled ability to interpret cosmic data, he uncovered new insights into the mysteries of black holes and the origins of the universe. As he peered through telescopes with his large, round eyes, fellow researchers often remarked that it seemed as if the stars themselves whispered their secrets directly to him. Dr. Cosmos not only became a beacon of inspiration to aspiring scientists but also proved that intellect and innovation can be found in the most unexpected of creatures.",
+    "World of Warcraft (often abbreviated as WoW) is a massively multiplayer online role-playing game (MMORPG) by Blizzard Entertainment. This subreddit is dedicated to the discussion of things in and around the game. We are not directly affiliated with Blizzard (though we have a friendly relationship with them!) and we are not a replacement for the official forums, but instead a way to interact with your favourite game while on your favourite website."
+    "extensive amount of data generated by today's clinical systems, has led to the development of imaging AI solutions across the whole value chain of medical imaging, including image reconstruction, medical image segmentation, image-based diagnosis and treatment planning. Notwithstanding the successes and future potential of AI in medical imaging, many stakeholders are concerned of the potential risks and ethical implications of imaging AI solutions, which are perceived as complex, opaque, and difficult to comprehend, utilise, and trust in critical clinical applications. Despite these concerns and risks, there are currently no concrete guidelines and best practices for guiding future AI developments in medical imaging towards increased trust, safety and adoption. To bridge this gap, this paper introduces a careful selection of guiding principles drawn from the accumulated experiences, consensus, and best practices from five large European projects on AI in Health Imaging. These guiding principles are named FUTURE-AI and its building blocks consist of (i) Fairness, (ii) Universality, (iii) Traceability, (iv) Usability, (v) Robustness and (vi) Explainability. In a step-by-step approach, these guidelines are further translated into a framework of concrete recommendations for specifying, developing, evaluating, and deploying technically, clinically and ethically trustworthy AI solutions into clinical practice."
+]
 
-# for text in sample_texts:
-#     print(f"\nText: {text}")
-#     print(f"Score: {detector.compute_score(text):.4f}")
-#     print(f"Prediction: {detector.predict(text)}")
+for text in sample_texts:
+    print(f"\nText: {text}")
+    ppl, x_ppl, token_ratios = detector.per_token_compute_score(text)
+    print(f"Perplexities: {ppl}")
+    print(f"Cross-Perplexities: {x_ppl}")
+    print(f"Per-token scores: {token_ratios}")
+    print(f"Mean score: {token_ratios.nanmean().item():.4f}")
+    print(f"Median score: {token_ratios.nanmedian().item():.4f}")
