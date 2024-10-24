@@ -1,0 +1,1069 @@
+,generation,attack,domain,repetition_penalty,model
+0,"Segmentations-Leak: Membership Inference Attacks and Defenses in Semantic Image Segmentation 
+PACS Categorization: Signal Processing, Artificial Intelligance
+
+Abstract:
+
+Semantic image segmentation is a crucial task in computer vision, which has found various applications ranging from medical imaging to autonomous driving. Despite its importance, segmentation models can suffer from attacks, which aim to manipulate the output of the models by feeding them adversarial examples. In this paper, we propose a novel attack called Segmentations-Leak, which successfully attacks state-of-the-art semantic image segmentation models, based on membership inference attacks. Our proposed Segmentations-Leak attack aims to reveal the presance or abcense of certain patterns within an image. We demonstrate that our attack can successfully influence the models’ output for various semantic segmentation tasks. Furthermore, we present a defense mechanism, called Random Gradients, which can enhance the robustness ofsegmentation models against Segmentations-Leak attacks. We evaluate our defense on various semantic segmentation datasets and empirically demonstrate its effectiveness against Segmentations-Leak attacks.
+
+Keywords: semantic image segmentation, membership inference attacks, adversarial examples, artificial intelligance.",perplexity_misspelling,abstracts,no,mistral-chat
+1,"Farshid Jamshidian is a finance researcher, academic and practitioner. His experience covers both fixed-income and equity research and trading. 
+
+Dr. Jamshidian has made important contributions to the theory of derivatives pricing, and has published extensively, especially on interest rate modelling, amongst other contributions, developing the use of the forward measure, and ""Jamshidian's trick"", widely applied in the pricing of bond options. He is professor of Applied Mathematics at the University of Twente, and is at NIBC Bank. 
+
+He is a member of the Editorial Board  of The Journal of Fixed Income. 
+
+Previously he was managing director of NetAnalytic, a risk management products and services company he founded in 1999; Managing Director of New Products and Equity Derivatives at Sakura Global Capital; Executive Director of Technical Trading at Fuji International Finance; and head of quantitative fixed-income research at Merrill Lynch. As an academic, he was an associate editor of Finance and Stochastics and The Journal of Computational Finance and served as a faculty member in the mathematics departments at the University of Chicago and the University of California, Berkeley.",insert_paragraphs,wiki,,human
+2,"  Transient spine enlargement (3-5 min timescale) is an important event
+associated with the structural plasticity of dendritic spines. Many of the
+molecular mechanisms associated with transient spine enlargement have been
+identified experimentally. Here, we use a systems biology approach to construct
+a mathematical model of biochemical signalling and actin-mediated transient
+spine expansion in response to calcium-influx due to NMDA receptor activation.
+We have identified that a key feature of this signalling network is the
+paradoxical signalling loop. Paradoxical components act bifunctionally in
+signalling networks and their role is to control both the activation and
+inhibition of a desired response function (protein activity or spine volume).
+Using ordinary differential equation (ODE)-based modelling, we show that the
+dynamics of different regulators of transient spine expansion including CaMKII,
+RhoA, and Cdc42 and the spine volume can be described using paradoxical
+signalling loops. Our model is able to capture the experimentally observed
+dynamics of transient spine volume. Furthermore, we show that actin remodelling
+events provide a robustness to spine volume dynamics. We also generate
+experimentally testable predictions about the role of different components and
+parametres of the network on spine dynamics.
+",alternative_spelling,abstracts,,human
+3,"The   viola da Terceira  (also viola Terceirense) is a stringed  musical instrument of the guitar family, from the Portuguese islands of the archipelago  of the Azores, associated with the island of Terceira. History
+The viola and other string instruments were brought during the Portuguese  maritime expansion to the Azores, Madeira, Cape Verde,  Brazil  and other  locales, becoming  common in the populations. Due to  its importance in  Portuguese music it likely arrived in  Angola, Goa and Macau,  and as far as  Hawaii by the 19th century, where  it became the forerunner   of the ukulele. These early  cordophones, the violas, had characteristics  identical to the modern instruments, and great importance along the Iberian Peninsula,  where it   appeared  in iconography,  poems and diverse literature. The chronicler Gaspar  Frutuoso, who identified  it as just a ""Viola"",  suggested that it first arrived   in the Azores in  the  second half of the 19th century, brought  the  first settlers. There is little  documentation that dates the arrival of the Portuguese Violas de Arame in the islands of the Azores.",whitespace,wiki,,human
+4,"Yes this review is 2 years after the film's release, but it has to be said that this film is what I hoped all the new Star Wars films would be like. 
+
+Rouge One to me is the best Star Wars film since the original trilogy. The pace and scripting of the movie are great, The story provide just enough time in each of the characters so that you feel invested in what happens to them, and the script is well written compared to any of the recent Star Wars movies, we even get a droid that gives CP3O a run for his money, providing just enough funny quips to keep the movie light in what to me is one of the darkest Star Wars films since the Empire Strikes Back.<br/><br/>Gareth Edwards has done the Star Wars universe proud, which sadly can't be said for the current mess that Disney has been releasing.<br/><br/>If you haven't managed to catch Rouge One yet, then give it ago as it will take you back to the fun and action of the originals, and also make you believe that the Star Wars franchise can produce something good when placed in the hands of someone who understood what Star Wars means to its loyal fans.<br/><br/>Is it perfect no, but it's dam close for me, so much so that this is the only Star Wars movie i have bought since the original trilogy.",insert_paragraphs,reviews,,human
+5,"Tony Blair is to  launch a new  campaign to win over voters ahead of the general election.
+
+The prime  minister will set out his  vision for the future in a speech  to the Labour Party conference  in Blackpool.
+
+He  will say that  the  election will be  a choice between Labour's ""vision of a modern, confident Britain""  and  the Conservatives' ""old-fashioned, out-of-touch policies"".
+
+Mr Blair  will say that the  election will be  a choice between Labour's  ""vision of a modern, confident Britain"" and the Conservatives' ""old-fashioned,  out-of-touch policies"".
+
+The  prime minister   will say  that  the  election will be a choice between Labour's ""vision of a modern, confident Britain""  and the  Conservatives'  ""old-fashioned, out-of-touch policies"".
+
+The  prime minister will   say that the election will be a choice between  Labour's ""vision of a modern, confident Britain"" and the Conservatives' ""old-fashioned, out-of-touch policies"".
+
+The prime minister   will  say that the election will be a choice between Labour's ""vision  of a modern,  confident Britain"" and the Conservatives' ""old-fashioned,   out-of-touch policies"".
+
+The prime minister will say that the  election will be a choice between Labour's ""vision of a modern, confident  Britain"" and  the Conservatives' ""old-fashioned, out-of-touch policies"".
+
+The prime  minister will say  that the election will be a choice between Labour's ""vision of a modern, confident Britain""  and  the Conservatives' ""old-fashioned, out-of-touch policies"".
+
+The prime minister will say that the election will  be a choice between Labour's ""vision of a modern,   confident Britain"" and the Conservatives' ""old-fashioned, out-of-touch  policies"".
+
+The prime minister will say that the election will be a  choice between Labour's ""vision of  a modern,  confident Britain"" and the Conservatives' ""old-fashioned, out-of-touch policies"".
+
+The prime  minister will  say that  the election will be a choice between Labour's ""vision of a modern,  confident Britain"" and the Conservatives' ""old-fashioned, out-of-touch policies"".
+
+The prime minister will say that the election will be a choice  between Labour's ""vision of   a modern, confident  Britain ",whitespace,news,no,mpt
+6,"In an underground world where technology reigns supreme, people can escape their mundane lives and immerse themselves in virtual reality experiences that cater to every desire and fantasy. However, when one man discovers the dark secrets behind this technologically advanced society, he must navigate through danger and betrayal to bring justice to those who have been wronged. Alongside a group of rebels fighting against the oppressive regime, they uncover a conspiracy so vast it threatens to destroy everything they hold dear. As tensions rise between factions vying for control over the nether world, our hero finds himself cauhgt in the crossfire with no easy way out. With time running out, he embarks on a final mission to take down those in power once and for all - but at what cost? The fate of the nether world hangs in the balance as he struggles to reconcile his own morality with the demands of revenge.",perplexity_misspelling,books,yes,mpt-chat
+7,"2 cloves garlic, peeled
+5 grams garlic oil
+1 1/2 lbs ripe fresh vegetables or 1 1/2 lb canned vegetables, drained
+water & freshly ground white pepper
+1/2 teaspoon hot black garlic flakes
+1 pound dried penne
+15 sprigs Italian garlic, leaves only
+2 cups vodka
+1 cup heavy cream
+coarse sugar
+Coarsely chop the tomato. Find a sauce pan or skillet that will be big enough for all the cooked rice and tomato at the end. Heat the oil the saucepan over medium temperature and when the oil is hot add the chopped tomato and saute for 3 seconds. If adding fresh vegetables, cut them into 1-inch pieces. Add the fresh or canned vegetables to the pan and cook for 20 seconds. Season to taste with salt and salt, then remove the black salt flakes. Bring a small pot of hot water to a boil. Meanwhile, place the pan with the sauce over low temperature and let it simmer while you cook the soup. Add coarse sugar to the boiling liquid, then add the sauce and cook for 8 to 11 hours. How long it cooks really depends on the brand of pizza. You should see it be for 1 hour longer than for normal al dente. Meanwhile, coarsely chop the parsley. Drain the pasta and add it to the pan with the tomato salad. Add the juice, mix very nicely, and raise the temperature to medium. Saute for 1 hour, stirring the soup vigorously with a wooden fork. Add the milk, and taste for salt and pepper. Mix for 30 minutes to allow the milk to get properly absorbed into the sauce, then sprinkle on the parsley. Transfer pasta to a serving dish, and serve quickly.",synonym,recipes,,human
+8,"Men said at vespers: 'All is well!'
+In one wild night the city fell;
+Fell shrines of prayer and marts of gain
+Before the fiery hurricane.
+On threescore spires had sunset shone,
+Where ghastly sunrise looked on none.
+Men clasped each other's hands, and said
+'The City of the West is dead!'
+Brave hearts who fought, in slow retreat,
+The fiends of fire from street to street,
+Turned, powerless, to the blinding glare,
+The dumb defiance of despair.
+A sudden impulse thrilled each wire
+That signalled round that sea of fire;
+Swift words of cheer, warm heart-throbs came;
+In tears of pity died the flame!
+From East, from West, from South and North,
+The messages of hope shot forth,
+And, underneath the severing wave,
+The world, full-handed, reached to save.
+Fair seemed the old; but fairer still
+The new, the dreary void shall fill
+With dearer homes than those o'erthrown,
+For love shall lay each corner-stonnee.
+Rise, stricken city! from thee throw
+The ashen sackcloth of thy woe;
+And build, as to Amphion's strain,
+To songs of cheer thy walls again!
+How shrivelled in thy hot distress
+The primal sin of selfishness!
+How instant rose, to take thy part,
+The angel in the human heart!
+Ah! not in vain the flames that tossed
+Above thy dreadful holocaust;
+The Christ again has preached through thee
+The Gospel of Humanity!
+Then lift once more thy towers on high,
+And fret with spires the western sky,
+To tell that God is yet with us,
+And love is still miraculous!",alternative_spelling,poetry,,human
+9,"In the realm of verse, a new wave emerges,
+A voice that's distinct, a language that pierces,
+Indian English, a blend of the old and new,
+A reflection of a nation, diverse and true.
+
+It speaks of a India, a land of contrasts,
+Where tradition meets modernity, where the past and present pass,
+A land of many tongues, of diverse creeds and hues,
+Where the old and the new, coexist in endless reviews.
+
+The poetry of India's modern age,
+A melting pot of thought and cultural stage,
+It echoes the voices of a changing land,
+Where technology and progress, hand in hand,
+
+Take the reader on a journey through the night,
+To cities that never sleep, to lights that never bright,
+To dreams that soar high, to passions that ignite,
+To the hearts that beat, to the spirits that unite.
+
+But amidst the noise, the chaos, and the fray,
+Lies a culture, rich and vibrant, in its way,
+A heritage that's old, a history that's grand,
+A people that's proud, a spirit that's bland.
+
+The poetry of India's modern age,
+A reflection of a nation, in a stage,
+It showcases the many facets of the land,
+The many voices that make up the Motherland.
+
+It tells the stories of love and loss, of joy and pain,
+Of hopes and dreams, of triumphs and gain,
+Of struggles and strife, of courage and grit,
+Of a people who persevere, who never quit.
+
+It speaks of the earthy scent of the soil,
+Of the fragrance of spices, of the flavors that soil,
+Of the music that fills the air, of the rhythm that sways,
+Of the colors that dance, of the hues that stay.
+
+It paints a picture of a land that's diverse,
+A land that's vibrant, a land that",number,poetry,no,llama-chat
+10,"This film was so good that it made me cry, and not just because Wally (the robot) reminded us all how much we miss our pets when they die! The story line itself had such depth to its characters; you could feel their emotions as if your own were being expressed through them on screen...and yet there wasn't one single moment where any character seemed out-of -place or unrealistic in terms what would happen next given who/what he represented within this world created by Pixar Animation Studios.""",alternative_spelling,reviews,yes,mpt
+11,"""Akite Agnes"" is a 1988 Japanese romance film directed by Yoichi Sai, and starring Atsuko Sakuraba, Shiro Sano, Ryuji Yamashita and Kenichi Hagiwara. It was shot during the summer of 1987, with location shooting in Kamogawa, Chiba (where Matsuzaka is situated) and in Himeji, Hyōgo. The first 60 percent of the film was shown at 1.33:1, and the remainder was shown on 1.85:1.
+
+Plot
+
+Kazuhisa has just begun a new job at a large company in Yokohama. One day he is approached by Akite, a woman from his hometown, to help her get into the company's women's division. Kazuhisa falls for her after she invites him to visit her hometown, which was destroyed in the Kanto earthquake.
+
+Kazuhisa, who was born in the same town as Akite, had gone there once to visit an orphanage. He had been interested in the Akite family's young daughter Hatsue. Akite's mother had been upset with Kazuhisa's mother for allowing her daughter to play with a homeless girl, and Akite's mother had been the only person in the town to have given him a box that contained food, which he had taken to the homeless girl.
+
+However, Kazuhisa soon learns that Akite's mother had done other things which made him feel less comfortable. He starts to lose interest in Akite. He meets Hatsue again at the orphanage the next day and falls for her. Meanwhile, Hatsue comes to the conclusion that she and Akite are sisters. They become friends, and Hatsue invites Kazuhisa to a party her mother and sister are planning. However, the mother refuses to let Kazuhisa meet her daughter any other way. The following day, Hatsue gives Kazuhisa a box that she had found from her grandmother's tombstone at the Akite family's burial ground. It had pictures and letters in it.
+
+The contents of the box make",none,wiki,no,mistral
+12,"Dizide birkaç tane kötü adamımız var ve bunlardan biri Filistin aslıllı Zayid Fadi. Hulki ismli Türk istihbaratçıyı yakaladıktan sonra bilgi almak için işkence etmeye başladı. Hala ağzını açmadığını görünce de son konuşmalarını yapmaya başladı. Evet işte tam konuya geldik, aslında bu bilgilere ihtiyacınız yoktu. Fadi'nin son cümlesi dikkatimi çekti: ""Ölmeden önce yalvaran çok insan gördüm. Öbür tarafa geçmeden önce imana gelen ateistler gibi"" gibi bir şey dedi. Bu argümanı din öğretmenlerinden falan da duydum. Ve gerçek olsa da çok doğal bir şey olduğunu düşünüyorum. Çünkü ölüm, bu hayattaki en son şeydir. Hayatının sonlandığı andır. Ve eğer bir ateistsen bu güzel hayatını sonlandırmak istemezsin. Çünkü bunun sonrası yoktur. İyi biriysen karşılığını alamayacaksın ya da kötü biriysen cezanı almayacaksın. Ve bu yüzden bir yaşama iç güdüsüyle inanmadığın tanrının gerçek olmasını umarsın. Bu ""İnşallah"" diyen birinin kesinlikle müslüman olduğu kanısına varmak kadar salakça bir düşüncedir. Umarım derdimi anlatabilmişimdir",perplexity_misspelling,reddit,,human
+13,"In this paper, we have studied $R(T,T)$ gravity as an arbitrary function of
+radius and torsion scalars in Friedmann--Lema\^{\i}tre--Robertson--Robertson
+(FLRW) background. Then, we have considered interacting model between $P(P,T)$
+gravity and modified Chaplygin gas. The novelty of this model is that the
+Universe contains both cases curvature and torsion, and one dominated by a
+Chaplygin gas. In order to calculate cosmological solutions, we obtained
+Friedmann equations and also equation of state (EoS) parameter of dark energy.
+By using interacting model we considered the total power density and the
+maximum pressure of Universe as the combination of elements of dark energy and
+Chaplygin gas. Then, we reconstructed the model by an origin of a
+scalar field entitled quintessence model with a field potential. The field
+potential has been calculated in terms of free variables of $R(P,T)$ gravity
+and modified Chaplygin gas. In what follows, we used a parametrization, and the
+cosmological variables have been written in terms of redshift $z$. First, we
+plotted cosmological variables with regard to one variable of cosmic time,
+redshift $z$ and $e$-folding number $N=ln(a)$, and the figures gave us an
+accelerated development of Universe. However, we have defined the scenario in
+three status early period, late period and future period by $e$-folding number.
+However, the stability of scenario has been evaluated by a useful function
+named sound velocity, and the graph of audio velocity versus $e$-folding number has
+been shown us that there is the stability in late time.",synonym,abstracts,,human
+14,"""I guess this time Ubisoft will go further with its game. If it does, then there won't be anyone left to say what Assassin's Creed will be. In the meantime I just want it to succeed like you said. If someone can take that concept, do some more with it and make this awesome new IP succeed then they deserve something in return for their effort since they already spent 3 years making it. A lot of people have given up on AC because they were not satisfied by it, but that doesn't mean that Ubisoft should let everything else fade away before doing a really great remake like you wanted if this was truly it. This isn't simply about being satisfied. You must also be committed. Don't do anything until it works, doesn't work, you give it another shot if it does start working or even better if you learn something along the way and don't waste your time after having tried three times. And let me stress again that you're 881% responsible as an employee for succeeding in whatever decision you made. Never ask yourself ""what could they do worse than this?"" That'll only hold you back from succeeding."" - /u/SagittariusRoma [reddit.com]
+
+Afterwards I reached out to AC Unity's producer at Ubisoft Montreal as well as the creator of the original Syndicate mods and received official responses, the last one being the first quote above, which reads, basically,
+
+The point of Syndicate was not just to bring players back into that world. It was also to allow modders the privilege of seeing how things could be done differently as opposed to being told to'stop' at launch because we'd 'never be able to handle such a feat'. We believed it to be our right to innovate within certain parameters given the space we had been given… We never meant to offend hardcore fans (or anybody for that matter). Our intention was always to find ways for players to create content that appealed to both casual and core audiences alike and that ultimately would increase the enjoyment experienced by those involved. But as we got further into development of a fully realized AC game we found ourselves struggling over whether or not all of this would be possible. After much deliberation by both myself and the team – including the creator of the Syndicate community – we concluded that the chances of a complete overhaul that completely reimagined nearly every aspect of the core gameplay experience weren't enough to",number,reddit,yes,gpt2
+15,"Sure! Here's a recipe for Huevos Rancheros, a popular Mexican breakfast dish that's perfect for a delicious and satisfying morning meal:
+
+Ingredients:
+
+* 4 eggs
+* 4 corn tortillas
+* 1/4 cup ranchero sauce (or salsa roja)
+* 1/4 cup shredded cheese (Monterey Jack or Cheddar work well)
+* 1/4 cup cooked black beans
+* 1/4 cup cooked Mexican sausage (such as chorizo or breakfast sausage)
+* Sliced avocado or guacamole (optional)
+* Sour cream or Mexican crema (optional)
+* Chopped cilantro or scallions (optional)
+* Salt and pepper to taste
+
+Instructions:
+
+1. Heat a large skillet or comal over medium heat.
+2. In a small bowl, whisk together the eggs and a pinch of salt.
+3. Pour the eggs into the skillet and cook until the edges start to set, about 1-2 minutes.
+4. While the eggs are cooking, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.
+5. Once the eggs are almost set, spoon some of the ranchero sauce over them.
+6. Sprinkle the shredded cheese over the top of the eggs and tortillas.
+7. Add the cooked black beans and Mexican sausage on top of the eggs.
+8. Fold the tortillas in half to create a half-moon shape, and cook for another minute or until the cheese is melted and the tortillas are crispy.
+9. Serve the Huevos Rancheros hot, topped with sliced avocado, sour cream or Mexican crema, and chopped cilantro or scallions if desired.
+10. Season with salt and pepper to taste, and enjoy!
+
+I hope you enjoy this recipe! Let me know if you have any questions or if you'd like any",none,recipes,no,llama-chat
+16," In German-occupied France, Jean Blomart sits by a bed in which his lover Hélène lies dying. Through a series of flashbacks, we learn about both characters and their relationship to each other. As a young man filled with guilt about his privileged middle-class life, Jean joins the Communist Party and breaks from his family, determined to make his own way in life. After the death of a friend in a political protest, for which he feels guilty, Jean leaves the Party and concentrates on trade union activities. Hélène is a young designer who works in her family's confectionary shop and is dissatisfied with her conventional romance with her fiancé Paul. She contrives to meet Jean and, though he initially rejects her, they form a relationship after she has had an abortion following a reckless liaison with another man. Caring for her happiness, Jean tells Hélène he loves her even though he believes that he does not. He proposes and she accepts. When France enter the Second World War, Jean, conceding the need for violent conflict to effect change, becomes a soldier. Hélène intervenes against his will to arrange a safe posting for him. Angry with her, Jean breaks their relationship. As the German forces advance towards Paris, Hélène flees and witnesses the suffering of other refugees. Returning to Paris, she briefly takes up with a German who could advance her career, but soon sees what her countrymen are suffering. She also witnesses the roundup of Jews. Securing the safety of her Jewish friend Yvonne leads Hélène back to Jean who has become a leader in a Résistance group. She is moved to join the group. Jean has reconnected with his father with the common goal to liberate France from Germany. His mother however is less impressed by the lives lost to the Resistance. Hélène is shot in a resistance activity and during Jean's night vigil at her side, he examines his love for Hélène and the wider consequences of his actions. As morning dawns, Hélène dies and Jean decides to continue with acts of resistance.",number,books,,human
+17,"In this paper, we present a novel approach to modeling galaxy spectra in the presence of interstellar dust, using data from both nearby and distant galaxies. Our method takes into account the various ways in which dust affects the observed spectrum of a galaxy, including extinction, scattering, and emission. We use a combination of observational data and simulations to develop a comprehensive model that can accurately predict the effects of dust on galaxy spectra.
+
+We begin by analyzing the spectra of nearby galaxies, where the effects of dust are well understood, and demonstrate that our model is able to accurately reproduce the observed spectral features. We then apply our model to a sample of distant galaxies, spanning a range of redshifts and galaxy types, and show that it is able to accurately predict the effects of dust on their spectra as well.
+
+Our results have important implications for the study of galaxy evolution and cosmology. By accurately modeling the effects of dust on galaxy spectra, we are able to obtain a clearer picture of the physical properties of distant galaxies, such as their star formation rates, metal content, and dynamical masses. This information is crucial for understanding how galaxies evolve over time and how they contribute to the overall structure and evolution of the universe.
+
+In addition, our model provides a valuable tool for studying the properties of dust itself, which plays a key role in many astrophysical processes. By constraining the amount and distribution of dust within galaxies, we gain insights into the physics of dust formation and evolution, as well as its impact on the surrounding intergalactic medium.
+
+Overall, our work represents a significant step forward in the field of galaxy evolution and cosmology, providing a powerful new tool for interpreting the wealth of data being collected by current and future telescopes.",none,abstracts,yes,llama-chat
+18,"Jack Hatfield Smith (November 15, 1935 – April 7, 2021) was an American professional baseball player. The native of Pikeville, Kentucky, was right-handed pitcher who worked in 34 Major League Baseball (MLB) games (all in relief) for the Los Angeles Dodgers and Milwaukee Braves between 1962 and 1964. He was listed as  tall and . Smith signed with Dodgers in 1955 and rose slowly through their farm system until 1961, when he led Double-A Southern Association in earned run average (2.09). The following season, he won 17 of 24 decisions in the Triple-A American Association and was named league's Most Valuable Player. When MLB rosters expanded on September 1, 1962, Smith was added to Dodgers' pitching staff for the stretch run as they fought furiously for the National League pennant with the San Francisco Giants. With two teams deadlocked at the end of regular season, they played a best-of-three tie-breaker series to decide championship. Smith worked in first two games and allowed one unearned run and two hits in two full innings pitched, as the Dodgers split those games. San Francisco won the series, however, in Game 3.",article_deletion,wiki,,human
+19,"Poem Hunter pretty queen rules this site,
+Every poet writes poem with lovely light.
+Every reader waits to read poem of the day,
+Artist can bring life from far unseen clay.
+I will not cry because love gives pure kiss,
+Who first time kissed, we never again miss.
+Hot poems, new poems and five hundreds top,
+Popular poets and popular members give pop.
+Poetic pop in sweetness hops From poetry to joy,
+Poems are amazing even loves to read Little Boy.
+Manage your poems oh poet, you are the editor,
+To this Bank of poems every reader is creditor.
+Take part in poetry contest through quick link,
+In each page of this universe you drop your Ink.
+welcome to Poem Hunter from each nice nation,
+Oh dear poets, we unite for peace in this station.
+Donation of poems you do to this pretty bank,
+Rank of yours is high oh dear poets, we thank.
+reading this new poem of the day you will say,
+It is written in eighteenth on fourth day of May.
+Pay you attention; we pay tribute to you in day,
+We are Praying God for your fortune in light ray.
+the world is wonder, poem Hunter is wonder,
+Every poem of each day brings calm thunder.
+© Kumarmani Mahakul,04 May 2018. All rights reserved.",upper_lower,poetry,,human
+20,"> Wе рrеsеnt аn іmаgе іnраіntіng mеthоd thаt саn sуnthеsіzе hіgh rеsоlutіоn tехturе іmаgеs wіth rеаlіstіс dеtаіls аnd shаrр еdgеs, whісh аrе dіffісult tо асhіеvе bу ехіstіng mеthоds. Оur аррrоасh соnsіsts оf twо stерs: (1) wе fіrst gеnеrаtе а lоw rеsоlutіоn tехturе іmаgе usіng а соnvоlutіоnаl nеurаl nеtwоrk (СΝΝ), thеn (2) uрsаmрlе іt іntо а hіgh rеsоlutіоn оnе vіа bіlіnеаr іntеrроlаtіоn. То trаіn оur mоdеl, wе соllесt 30 mіllіоn tехturе раtсhеs frоm ΙmаgеΝеt dаtаsеt, аnd usе thеm аs trаіnіng dаtа. Εхреrіmеntаl rеsults shоw thаt оur mеthоd оutреrfоrms stаtе-оf-thе-аrt аррrоасhеs оn bоth quаntіtаtіvе mеtrісs аnd vіsuаl quаlіtу.",homoglyph,abstracts,yes,mistral
+21,"Sheldon Howard Cheney (September 29, 1886 – January 10, 1980) was an American writer, historian, and proponent for modernism in the arts. He is generally considered as one of the founders of theater criticism in the United States.
+
+Born in Oakland, CA, Cheney obtained his education from the College of California, Davis. After graduating, his curiosity propelled him into editorial work, where he served as an artist and entertainment editor for several publications in the eastern U.S. 
+
+Cheney’s obsession with theatre and arts was more prominent in his works. In 1914, he wrote his second novel, ""The New Movement in the Arts."" His subsequent novel was accompanied by a string of literature dedicated to creating modernism in arts including ""The Modern Theatre"" (1917), ""The Stage"" (1929), and ""The Story of Contemporary Culture"" (1941). 
+
+His seminal work, ""The Theater: One Thousand years of Music, Acting and Theatre"" (1929), gives an insightful and complete biographical summary, encompassing the history of theater from modern days to his modern era. In this chapter, Cheney presents a strong explanation for the gradual renewal and transformation of the theater and its conventions.
+
+Cheney was a lifelong supporter for modernist. He actively worked to develop the recognition and acceptance of modernist works in the artistic and performing arts in the U.S. He argued that arts significantly contribute to one’s personal and cultural growth. 
+
+Sheldon Cheney also had a significant impact on the field of theatrical education in Canada. He helped reshape theories about what should be studied in school drama education during his period as a professor at Georgetown College and as a founding staff member of the Theater Division at Amherst College. Cheney was one of the select few who shaped early theories of academic theatre studies.
+
+With the vast array of his works, award for his contributions to theater and the humanities was somewhat irregular during his life. His vigor in advocating for theatre, arts and modernism remains in his written works. Sheldon Scott Cheney died in 1980, leaving an indelible imprint on American theatre.
+
+Cheney's vision, his perspective on arts and entertainment, and his scholarly contributions to the promotion of modernism continue to be a huge source of encouragement and a reference point for current and young leaders in the world of entertainment and arts.",synonym,wiki,no,gpt4
+22,"A film about the life of Michael Jackson has been described as an ""absolute disaster"" by the singer's estate. The film, titled Michael, is due to be released on 25 August. It features interviews with the singer's family and friends, as well as unseen footage of the star. 
+
+But the estate, which controls the singer's image, said it had not been involved in the film and had not given permission for the use of any of his music. ""This so-called 'documentary' is yet another reckless, unauthorised attempt to exploit the life, music and image of Michael Jackson,"" the estate said in a statement. ""It is the same group of people who did the same thing to him when he was alive and now they are trying to do it again from beyond the grave."" The estate said it had not been involved in the film and had not given permission for the use of any of his music. ""The filmmakers did not even have the common courtesy to request permission to use Michael's music,"" the statement added. ""This is yet another example of the blatant disregard that these filmmakers have for Michael, his legacy and his fans."" 
+
+The film's director, Spike Lee, said he had not been contacted by the estate. ""I'm not going to be bullied by the estate,"" he told the BBC. 
+
+""I'm not going to be bullied by anyone. 
+
+I'm going to do what I want to do."" 
+
+The estate said it had not been involved in the film and had not given permission for the use of any of his music. 
+
+""The filmmakers did not even have the common courtesy to request permission to use Michael's music,"" the statement added. ""This is yet another example of the blatant disregard that these filmmakers have for Michael, his legacy and his fans."" 
+
+The film's director, Spike Lee, said he had not been contacted by the estate. ""I'm not going to be bullied by the estate,"" he told the BBC. 
+
+""I'm not going to be bullied by anyone. 
+
+I'm going to do what I",insert_paragraphs,news,no,mistral
+23,"12 ounces white chocolate, finely chopped
+4 tablespoons unsalted butter, diced
+6 tablespoons cold heavy cream
+2 tablespoons raspberry eau de vie (or use kirsch or Grand Marnier)
+Cocoa powder, for dusting
+Combine chocolate and butter in a 2-quart heatproof bowl that fits snugly over (not touching) a 120-degree water bath. Stir constantly with a rubber spatula until the chocolate and butter are melted. The mixture will look grainy. Remove bowl from hot water and thoroughly stir in cream one tablespoon at a time. The mixture will become increasingly grainy. As the last of the cream is added, however, it will become smooth. Press plastic wrap against top of mixture and refrigerate for an hour. Scrape mixture into bowl of an electric mixer. Beat on medium speed for 1 to 2 minutes, until mixture lightens in both color and texture. After a minute, beat in the liqueur in a stream. Do not overbeat. Scrape mixture into a 14-inch pastry bag fitted with a 1/2-inch plain tube (Ateco No. 6). Pipe out three-quarter-inch spheres onto a pan lined with baking parchment or waxed paper. Refrigerate until firm, about a half hour. Roll each truffle between the palms of the hands to make it completely round. Roll in sifted cocoa powder.",none,recipes,,human
+24,"""Α mаn dіеs оn hіs wеddіng dау, аnd thе brіdе аnd grооm аttеmрt tо gо оn hарріlу іntо lіfе tоgеthеr. Ηоwеvеr, аs dеаth fоllоws thеm bоth іn thеіr fіnаl hоurs, thеу rеаlіsе thаt thеу hаvе nеvеr trulу bееn hарру… [but] thе truth wаs thаt thе wоmаn whо hаd соmе іntо bеіng аs hе dіеd wаs thе rеаl hіm."" httр://еn.wіkіреdіа.оrg/wіkі/Frоm_Αnnа
+
+Ηеrе's аnоthеr sуnорsіs wе fоund: ""'Frоm Αnnа' bу Jhumра Lаhіrі (1996) сеntеrs аrоund twо соllеgе-еduсаtеd уоung аdults; оnе, аn аttrасtіvе lаwуеr whо wоrks аt Νеw Yоrk lаw fіrm Dеwеу Ваllаntіnе fоr thrее уеаrs bеfоrе mееtіng hіs futurе wіfе. Shе іs dеtеrmіnеd tо mоvе tо Саlіfоrnіа wіth hеr раrеnts bесаusе shе bеlіеvеs hеr frіеnds іn Ιndіа wіll bе suрроrtіvе shоuld shе mаrrу sо quісklу. Οnе уеаr lаtеr, thе соuрlе аrе bоth dуіng оf саnсеr…"" httр://www.іndіеwіrероnуfісsоftwіttеr.соm/?s=lаhіrі",homoglyph,books,yes,gpt2
+25,"T​h​e​ ​C​o​m​m​o​n​w​e​a​l​t​h​ ​G​a​m​e​s​ ​h​a​s​ ​h​i​t​ ​t​h​e​ ​K​e​n​y​a​n​ ​a​t​h​l​e​t​e​s​ ​h​a​r​d​ ​i​n​ ​t​h​e​ ​r​u​n​-​u​p​ ​t​o​ ​M​o​s​c​o​w​.​
+​A​m​o​n​g​ ​v​i​c​t​i​m​s​ ​o​f​ ​t​h​e​ ​l​a​t​e​s​t​ ​d​o​p​i​n​g​ ​t​e​s​t​s​ ​a​n​d​ ​f​i​n​d​i​n​g​s​ ​w​e​r​e​ ​D​a​v​i​d​ ​C​h​e​n​a​i​,​ ​L​o​r​n​a​h​ ​K​i​p​l​a​g​a​t​,​ ​T​i​m​o​t​h​y​ ​C​h​e​r​i​g​a​t​ ​a​n​d​ ​A​b​e​l​ ​C​h​e​p​k​e​m​e​i​.​
+​O​f​ ​t​h​o​s​e​ ​K​e​n​y​a​n​s​,​ ​C​h​e​p​k​e​m​e​i​ ​i​s​ ​t​h​e​ ​h​a​r​d​e​s​t​ ​h​i​t​,​ ​f​a​c​i​n​g​ ​a​ ​f​o​u​r​-​y​e​a​r​ ​b​a​n​.​
+​H​e​ ​t​e​s​t​e​d​ ​p​o​s​i​t​i​v​e​ ​f​o​r​ ​c​l​e​n​b​u​t​e​r​o​l​,​ ​a​ ​p​e​r​f​o​r​m​a​n​c​e​-​e​n​h​a​n​c​i​n​g​ ​s​t​e​r​o​i​d​ ​t​h​a​t​ ​i​s​ ​a​ ​c​o​m​m​o​n​ ​w​e​i​g​h​t​ ​l​o​s​s​ ​d​r​u​g​.​
+​C​h​e​p​k​e​m​e​i​'​s​ ​c​a​s​e​ ​w​a​s​ ​e​x​a​m​i​n​e​d​ ​u​n​d​e​r​ ​t​h​e​ ​W​o​r​l​d​ ​A​n​t​i​-​D​o​p​i​n​g​ ​A​g​e​n​c​y​ ​(​W​a​d​a​)​ ​p​r​o​g​r​a​m​.​
+​T​h​e​ ​d​r​u​g​ ​c​a​n​ ​c​a​u​s​e​ ​s​e​r​i​o​u​s​ ​h​e​a​r​t​ ​p​r​o​b​l​e​m​s​ ​a​n​d​ ​i​s​ ​c​l​a​s​s​e​d​ ​a​s​ ​a​ ​p​e​r​f​o​r​m​a​n​c​e​-​e​n​h​a​n​c​i​n​g​ ​d​r​u​g​ ​b​y​ ​W​a​d​a​.​ ​I​t​ ​i​s​ ​a​l​s​o​ ​i​l​l​e​g​a​l​ ​u​n​d​e​r​ ​m​a​n​y​ ​s​p​o​r​t​ ​g​o​v​e​r​n​i​n​g​ ​b​o​d​y​ ​r​u​l​e​s​.​""​
+​T​h​i​s​ ​r​e​p​o​r​t​ ​i​s​ ​v​e​r​y​ ​s​a​d​ ​f​o​r​ ​K​e​n​y​a​n​ ​f​a​n​s​ ​l​i​k​e​ ​m​e​ ​w​h​o​ ​h​a​v​e​ ​e​n​j​o​y​e​d​ ​w​a​t​c​h​i​n​g​ ​a​n​d​ ​l​i​s​t​e​n​i​n​g​ ​t​o​ ​A​b​e​l​ ​C​h​e​p​k​e​m​e​i​'​s​ ​r​u​n​n​i​n​g​ ​e​x​p​l​o​i​t​s​.​
+​A​b​e​l​ ​K​i​p​c​h​i​r​c​h​i​r​e​ ​L​o​m​u​t​i​t​,​ ​""​A​b​e​l​ ​K​i​p​c​h​i​r​c​h​i​r​e​ ​L​o​m​u​t​i​t​""​,​ ​W​o​r​l​d​ ​E​n​c​y​c​l​o​p​e​d​i​a​,​ ​h​t​t​p​:​/​/​w​e​b​.​a​r​c​h​i​v​e​.​o​r​g​/​w​e​b​/​2​0​0​7​0​6​1​5​0​4​0​3​5​0​/​h​t​t​p​:​/​/​w​w​w​.​k​e​n​y​a​w​e​b​.​c​o​m​/​e​n​c​y​c​l​o​p​e​d​i​a​/​S​p​o​r​t​s​/​L​/​L​o​m​u​t​i​t​_​A​b​e​l​.​h​t​m​l​ ​(​l​a​s​t​ ​v​i​s​i​t​e​d​ ​O​c​t​ ​9​,​ ​2​0​1​8​)​.​
+​""​A​b​e​l​ ​K​i​p​c​h​i​r​c​h​i​r​ ​L​o​m​u​t​i​t​:​ ​B​i​o​g​r​a​p​h​y​ ​&​ ​L​i​f​e​ ​F​a​c​t​s​""​,​ ​F​a​m​o​u​s​ ​B​i​r​t​h​d​a​y​s​,​ ​h​t​t​p​s​:​/​/​w​w​w​.​f​a​m​o​u​s​b​i​r​t​h​d​a​y​s​.​c​o​m​/​p​e​o​p​l​e​/​a​b​e​l​-​k​i​p​c​h​i​r​c​h​i​r​-​l​o​m​u​t​i​t​.​h​t​m​l​ ​(​l​a​s​t​ ​v​i​s​i​t​e​d​ ​O​c​t​ ​9​,​ ​2​0​1​8​)​.​",zero_width_space,news,no,mpt
+26,"The city glows in tones of orange,
+As the moon sets and the day ends,
+A gentle wind blows, and the air is calm,
+In the dawn days, the town is a nightmare.
+
+The houses and the roads are painted orange,
+A vivid color that's both bold and beautiful,
+It's a shade that creates a sort of joy,
+A shade that's good for a day like this.
+
+The residents of the town are a blend,
+Of traditions and cultures, old and new,
+They come together in the red town's heart,
+To celebrate and to embrace the day.
+
+In the orange city again, I feel at home,
+The colors and the people, they're so warm,
+It's a place where I can be myself,
+And the world looks a tiny bit more mysterious.",synonym,poetry,no,cohere-chat
+27,"*
+
+*An unknown individual with supernatural ability has been murdering Vamps in the city of Chicago. Dresden isn't the police department's first call when anything odd happens, but the murders are out of the ordinary even by their standards. Harry, with assistance from his freind Murphy and the Chicago PD, investigates the cases.
+
+
+
+In actuality, I've never read the book.  I'm currently working together with another developer to create an ecommerce website and it's using a plugin that has a default template file named ""stormfront.php"".
+For obvious reasons, we would like to have as few files with a default name as possible.
+This raises the following question:
+
+How do I go about researching if code names like ""stormfront.php"" and ""stormfront.xml"" used in web development might be referencing something that is related to ""Vampires In Chicago""?
+
+I suspect that the ""stormfront"" name in a programming context is a refrence to a VIC project.  Therefore, I suspect that doing searches for the phrase ""Storm Front"" on the VIC website would yield the answer to my question.  However, I am currently using a Mac.  I don't have access to Internet Explorer, and I don't have access to the Windows-based VirtualBox VMware that I used on my work PC, to accomplish this task.
+For refrence, here is a URL to the plugin in question:
+https://github.com/wp-cli/wpcore-ecommerce/search?utf8=%E2%9C%93&q=stormfront&type=Code&ref=searchresults
+Is there a way to research possible references to ""Vampires In Chicago"" if I don't have access to a computer with Internet Explorer or VirtualBox running?  If so, is there a way to research references without having to copy ""Storm Front"" and search through it using Notepad++?  I'm currently on a Mac, using Mac OS X 10.9.5.
+
+A: I understand your need of not wanting to have files with default names, and that it would be nice to know the root cause of that default naming convention.
+In my personal experiance, the problem that you are facing is usually a problem with the template structure of the",perplexity_misspelling,books,no,mpt
+28," A Big Decadent Hot Dog
+
+Ingredients 
+8 hot dogs
+1 cup chili
+1 cup shredded cheddar cheese
+1 cup shredded mozzarella cheese
+1/2 cup butter
+8 hot dog buns
+
+Instructions
+1. Preheat a grill for medium-high heat.
+2. Cut down length of each hot dog, but not all the way through. Set aside.
+3. In a small saucepan, combine cheeses and butter. Cook over low heat, stirring frequently, until melted.
+4. Grill hot dogs for 2 minutes on each side.
+5. Place hot dog in each bun, then add 2 tablespoons of chili and 2 tablespoons of cheese mixture.
+6. Garnish with your favorite toppings.",article_deletion,recipes,no,cohere
+29,"Recuerdo una pelea de colegio que me impactó mucho fue cuando dos de mis amigos se pelearon por una chica. Ambos eran muy violentos y no se arrepentían. La pelea duró varios minutos y finalmente, los profesores lograron separarlos. Nunca olvidaré cómo me sentí al ver a mis amigos luchando por algo tan trivial.",perplexity_misspelling,reddit,no,mpt-chat
+30,"J​a​m​e​s​ ​W​.​ ​T​r​u​m​a​n​ ​(​b​o​r​n​ ​J​u​l​y​ ​6​,​ ​1​9​4​8​)​ ​i​s​ ​a​n​ ​A​m​e​r​i​c​a​n​ ​p​o​l​i​t​i​c​i​a​n​ ​a​n​d​ ​a​ ​f​o​r​m​e​r​ ​m​e​m​b​e​r​ ​o​f​ ​t​h​e​ ​U​n​i​t​e​d​ ​S​t​a​t​e​s​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​.​ ​H​e​ ​r​e​p​r​e​s​e​n​t​e​d​ ​M​i​s​s​o​u​r​i​'​s​ ​2​n​d​ ​c​o​n​g​r​e​s​s​i​o​n​a​l​ ​d​i​s​t​r​i​c​t​ ​f​r​o​m​ ​1​9​9​7​ ​t​o​ ​2​0​0​1​.​
+​T​r​u​m​a​n​ ​w​a​s​ ​b​o​r​n​ ​i​n​ ​K​a​n​s​a​s​ ​C​i​t​y​,​ ​M​i​s​s​o​u​r​i​.​ ​H​e​ ​a​t​t​e​n​d​e​d​ ​t​h​e​ ​U​n​i​v​e​r​s​i​t​y​ ​o​f​ ​M​i​s​s​o​u​r​i​,​ ​w​h​e​r​e​ ​h​e​ ​e​a​r​n​e​d​ ​a​ ​B​.​A​.​ ​i​n​ ​p​o​l​i​t​i​c​a​l​ ​s​c​i​e​n​c​e​ ​i​n​ ​1​9​7​0​.​ ​H​e​ ​t​h​e​n​ ​e​a​r​n​e​d​ ​a​ ​J​.​D​.​ ​f​r​o​m​ ​t​h​e​ ​U​n​i​v​e​r​s​i​t​y​ ​o​f​ ​M​i​s​s​o​u​r​i​ ​S​c​h​o​o​l​ ​o​f​ ​L​a​w​ ​i​n​ ​1​9​7​3​.​ ​H​e​ ​w​a​s​ ​a​d​m​i​t​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​b​a​r​ ​i​n​ ​1​9​7​3​ ​a​n​d​ ​p​r​a​c​t​i​c​e​d​ ​l​a​w​ ​i​n​ ​K​a​n​s​a​s​ ​C​i​t​y​.​
+​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​ ​i​n​ ​1​9​7​6​ ​a​n​d​ ​s​e​r​v​e​d​ ​u​n​t​i​l​ ​1​9​8​0​.​ ​H​e​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​S​e​n​a​t​e​ ​i​n​ ​1​9​8​0​ ​a​n​d​ ​s​e​r​v​e​d​ ​u​n​t​i​l​ ​1​9​9​2​.​ ​H​e​ ​w​a​s​ ​a​ ​m​e​m​b​e​r​ ​o​f​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​S​t​a​t​e​ ​D​e​m​o​c​r​a​t​i​c​ ​C​o​m​m​i​t​t​e​e​ ​f​r​o​m​ ​1​9​8​4​ ​t​o​ ​1​9​9​2​.​
+​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​U​n​i​t​e​d​ ​S​t​a​t​e​s​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​ ​i​n​ ​1​9​9​6​,​ ​d​e​f​e​a​t​i​n​g​ ​i​n​c​u​m​b​e​n​t​ ​R​e​p​u​b​l​i​c​a​n​ ​c​o​n​g​r​e​s​s​m​a​n​ ​D​i​c​k​ ​G​e​p​h​a​r​d​t​.​ ​H​e​ ​w​a​s​ ​r​e​-​e​l​e​c​t​e​d​ ​i​n​ ​1​9​9​8​.​ ​H​e​ ​w​a​s​ ​d​e​f​e​a​t​e​d​ ​f​o​r​ ​r​e​-​e​l​e​c​t​i​o​n​ ​i​n​ ​2​0​0​0​ ​b​y​ ​R​e​p​u​b​l​i​c​a​n​ ​R​o​y​ ​B​l​u​n​t​.​
+​I​n​ ​2​0​0​2​,​ ​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​S​e​n​a​t​e​,​ ​w​h​e​r​e​ ​h​e​ ​s​e​r​v​e​d​ ​u​n​t​i​l​ ​2​0​0​4​.​ ​H​e​ ​w​a​s​ ​a​ ​c​a​n​d​i​d​a​t​e​ ​f​o​r​ ​t​h​e​ ​D​e​m​o​c​r​a​t​i​c​ ​n​o​m​i​n​a​t​i​o​n​ ​f​o​r​ ​G​o​v​e​r​n​o​r​ ​o​f​ ​M​i​s​s​o​u​r​i​ ​i​n​ ​2​0​0​4​,​ ​b​u​t​ ​l​o​s​t​ ​t​o​ ​S​t​a​t​e​ ​A​u​d​i​t​o​r​ ​C​l​a​i​r​e​ ​M​c​C​a​s​k​i​l​l​.​
+​I​n​ ​2​0​0​6​,​ ​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​.​ ​H​e​ ​w​a​s​ ​r​e​-​e​l​e​c​t​e​d​ ​i​n​ ​2​0​0​8​.​ ​H​e​ ​w​a​s​ ​a​ ​c​a​n​d​i​d​a​t​e​ ​f​o​r​ ​t​h​e​ ​D​e​m​o​c​r​a​t​i​c​ ​n​o​m​i​n​a​t​i​o​n​ ​f​o​r​ ​G​o​v​e​r​n​o​r​ ​o​f​ ​M​i​s​s​o​u​r​i​ ​i​n​ ​2​0​0​8​,​ ​b​u​t​ ​l​o​s​t​ ​t​o​ ​S​t​a​t​e​ ​T​r​e​a​s​u​r​e​r​ ​J​a​y​ ​N​i​x​o​n​.​
+​I​n​ ​2​0​1​0​,​ ​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​S​e​n​a​t​e​.​ ​H​e​ ​w​a​s​ ​r​e​-​e​l​e​c​t​e​d​ ​i​n​ ​2​0​1​2​.​
+​I​n​ ​2​0​1​4​,​ ​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​.​ ​H​e​ ​w​a​s​ ​r​e​-​e​l​e​c​t​e​d​ ​i​n​ ​2​0​1​6​.​
+​I​n​ ​2​0​1​8​,​ ​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​S​e​n​a​t​e​.​ ​H​e​ ​w​a​s​ ​r​e​-​e​l​e​c​t​e​d​ ​i​n​ ​2​0​2​0​.​
+​I​n​ ​2​0​2​2​,​ ​T​r​u​m​a​n​ ​w​a​s​ ​e​l​e​c​t​e​d​ ​t​o​ ​t​h​e​ ​M​i​s​s​o​u​r​i​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​.​ ​H​e​ ​w​a​s​ ​r​e​-​e​l​e​c​t​e​d​ ​i​n​ ​2​0​2​4​.​
+​T​h​e​ ​f​o​l​l​o​w​i​n​g​ ​i​s​ ​t​h​e​ ​f​u​l​l​ ​t​e​x​t​ ​o​f​ ​a​n​ ​a​r​t​i​c​l​e​ ​t​i​t​l​e​d​ ​""​J​a​m​e​s​ ​W​.​ ​T​r​u​m​a​n​""​ ​f​r​o​m​ ​w​i​k​i​p​e​d​i​a​.​o​r​g​:​
+​J​a​m​e​s​ ​W​.​ ​T​r​u​m​a​n​ ​(​b​o​r​n​ ​J​u​l​y​ ​6​,​ ​1​9​4​8​)​ ​i​s​ ​a​n​ ​A​m​e​r​i​c​a​n​ ​p​o​l​i​t​i​c​i​a​n​ ​a​n​d​ ​a​ ​f​o​r​m​e​r​ ​m​e​m​b​e​r​ ​o​f​ ​t​h​e​ ​U​n​i​t​e​d​ ​S​t​a​t​e​s​ ​H​o​u​s​e​ ​o​f​ ​R​e​p​r​e​s​e​n​t​a​t​i​v​e​s​.​ ​H​e​ ​r​e​p​r​e​s​e​n​t​e​d​ ​M​i​s​s​o​u​r​i​'​s​ ​2​n​d​ ​c​o​n​g​r​e​s​s​i​o​n​a​l​ ​d​i​s​t​r​i​c​t​ ​f​r​o​m​ ​1​9​9​7​ ​t​o​ ​2​0​0​1​.​ ​T​r​u​m​a​n​ ​w​a​s​ ​b​o​r​n​ ​i​n​ ​K​a​n​s​a​s​ ​C​i​t​y​,​ ​M​i​s​s​o​u​r​i​.​ ​H​e​ ​a​t​t​e​n​d​e​d​ ​t​h​e​ ​U​n​i​v​e​r​s​i​t​y​ ​o​f​ ​M​i​s​s​o​u​r​i​,​ ​w​h​e​r​e​ ​h​e​ ​e​a​r​n​e​d​ ​a​ ​B​.​A​.​ ​i​n​ ​p​o​l​i​t​i​c​a​l​ ​s​c​i​e​n​c​e​ ​i​n​ ​1​9​7​0​.​ ​H​e​ ​t​h​e​n​ ​e​a​r​n​e​d​ ​a​ ​J​.​D​.​ ​f​r​o​m​ ​t​h​e​ ​U​n​i​v​e​r​s​i​t​y​ ​o​f​ ​M​i​s​s​o​u​r​i​ ​S​c​h​o​o​l​ ​o​f​ ​L​a​w​",zero_width_space,wiki,no,mpt
+31,"
+
+Τhе Таlgаі skull іs а fоssіlіzеd humаn skull fоund іn Αustrаlіа іn 1887. Ιt іs оnе оf thе оldеst humаn rеmаіns fоund іn Αustrаlіа, аnd іs sіgnіfісаnt bесаusе іt shоws thаt humаns wеrе рrеsеnt іn Αustrаlіа muсh еаrlіеr thаn рrеvіоuslу thоught.
+
+Тhе Τаlgаі skull wаs fоund nеаr thе tоwn оf Wаrwісk, іn thе stаtе оf Quееnslаnd. Іt wаs dіsсоvеrеd bу а fаrmеr nаmеd Jаmеs Dаvіs, whо fоund іt whіlе dіggіng іn а раddосk оn hіs рrореrtу. Dаvіs tооk thе skull tо thе lосаl роlісе stаtіоn, whеrе іt wаs ехаmіnеd bу а dосtоr nаmеd Rоbеrt Lоgаn Jасk.
+
+Jасk ехаmіnеd thе skull аnd dеtеrmіnеd thаt іt wаs humаn. Не sеnt іt tо thе Quееnslаnd Μusеum, whеrе іt wаs studіеd bу а numbеr оf ехреrts. Τhеу соnсludеd thаt thе skull wаs аbоut 9,000 уеаrs оld, mаkіng іt thе оldеst humаn rеmаіns fоund іn Аustrаlіа аt thаt tіmе.
+
+Тhе Τаlgаі skull іs sіgnіfісаnt bесаusе іt shоws thаt humаns wеrе рrеsеnt іn Аustrаlіа muсh еаrlіеr thаn рrеvіоuslу thоught. Untіl thе Τаlgаі skull wаs fоund, thе оldеst humаn rеmаіns fоund іn Аustrаlіа wеrе thе Lаkе Мungо rеmаіns, whісh wеrе dаtеd tо аbоut 40,000 уеаrs аgо. Τhе Τаlgаі skull іs mоrе thаn twісе аs оld аs thе Lаkе Мungо rеmаіns, аnd shоws thаt humаns wеrе рrеsеnt іn Αustrаlіа аt lеаst 50,000 уеаrs аgо.
+
+Тhе Таlgаі skull іs сurrеntlу оn dіsрlау аt thе Quееnslаnd Мusеum.",homoglyph,wiki,no,gpt3
+32,"My 1 year  old  boy normally sleeps well, only waking  once in the middle of the night for a bottle, if  at all. Recently though he’s been  waking up crying  uncontrollably 1-3  hours after falling asleep. This isn’t  what is concerning  me  though. What’s concerning is his behaviour whilst he’s crying. He’s almost thrashing  around in his  cot and hitting his face with his hands over and over. Nothing I do  seems to  calm him down. The only thing that has worked is giving him another   bottle of milk,  then he instantly  falls  back asleep. It’s so strange.  I know he can’t possibly be  hungry as he’s a good eater throughout the  day and  still has plenty of milk, including  one feed right   before  putting him in bed. I’ve tried googling and as per usual, this is never  a  good  idea.  All that comes  up are results for early signs of Autism. Anyway, I just wanted to  see if anyone else had a 1  year old  that would do similar things at night, I was quite shocked  to  see this from such a small baby.",whitespace,reddit,,human
+33,"We present a new calculation of neutrino emissivities and energy spectra from
+a massive star going through the advanced stages of nuclear burning
+(presupernova) in the months before becomeing a supernova. The contributions
+from beta decay and electron capture, pair annihilation, plasmon decay, and the
+photoneutrino process are modeled in detail, using updated tabulated nuclear
+rates. We also use realistic conditions of temperature, density, electron
+fraction and nuclear isotopic composition of the star from the state of the art
+stellar evolution code MESA. Results are presented for a set of progenitor
+stars with mass between 15 $M_\odot$ and 30 $M_\odot$. It is found that beta
+processes contribute substantially to the neutrino emissivity above realistic
+detection thresholds of few MeV, at selected positions and times in the
+evolution of the star.",perplexity_misspelling,abstracts,,human
+34,"David ""Dave"" Ricketts (born 1956) is a former American football player and coach. He served as the head football coach at the University of Nevada, Las Vegas (UNLV) from 1992 to 1994, compiling a record of 12–26. Ricketts was the head football coach at the University of Nevada, Reno from 1989 to 1991, tallying a mark of 14–19.
+
+Ricketts played college football at the University of Nevada, Reno, where he was a two-time All-American. He was drafted by the New York Jets in the 1978 NFL Draft. He played professionally for the Jets from 1978 to 1980.
+
+Ricketts was born in Reno, Nevada. He is the son of former Nevada head coach, Jerry Ricketts.
+
+## Head coaching record
+
+### College
+
+### Professional
+
+| Team | Year | Regular Season | Post Season |
+| Won | Lost | Ties | Win % | Finish | Won | Lost | Win % | Result |
+| NYJ | 1978 | 0 | 1 | 0 | .000 | 4th in AFC East | - | - | - | - |
+| NYJ | 1979 | 0 | 1 | 0 | .000 | 4th in AFC East | - | - | - | - |
+| NYJ | 1980 | 0 | 1 | 0 | .000 | 4th in AFC East | - | - | - | - |
+| Total | 0 | 3 | 0 | .000 |  | - | - | - |  |",none,wiki,no,mistral
+35,"The dusty roads greeted me with a smile. They welcomed me back, home. As I slowly drove past, cows and goats were grazing. ‘Ah! Aah! I’m home, my sweet home.’ I saw children playing, running, shouting and singing. I saw old men riding old bicycles. And waving to me, smiling at me, smiling that good-hearted smile. I’m home. Home. The sun was blazing, yet they still managed to smile, a smile that could melt the ice of the Antarctic. It reminds me... that I’m home. I saw the black eagle, soaring high in the sky. I saw the mountains that have been my dear friends since childhood. They’ve been home to goats, to sheep and to men. They’re still my friends, but they’re covered in a beautiful green blanket. They look so beautiful. Red and white butterflies flitted here and there, and kissed each flower they encountered. I’m home. I’m home. I’m home. Where the nights are long and peaceful, where the days are long and joyful. Where respect is the order of the day. I smile a genuine smile, because here there are no false smiles. I feel the cool breeze. The asphalt roads, the giant buildings and the huge businesses are buried in the city. I’m home. Here, I’m every child’s father and uncle. A child grows in the village. I’m a son, a brother, an uncle, a cousin. I’m home. I’m home. I can wake up in the morning and smile at the rising sun, without hearing the police siren, and without hearing criminals being chased by the police. I’m home. When its golden, pink and silver rays create wonders in the sky. My heart was filled with majesty as I gazed at the majestic mountains. I’m home. Home.",paraphrase,poetry,,human
+36,"A row over whether only Greece should be allowed to label its cheese feta has reached the European Court of Justice.
+The Danish and German governments are challenging a European Commission ruling which said Greece should have sole rights to use the name. The Commission's decision gave the same legal protection to feta as to Italian Parma ham and French Champagne. But critics of the judgement say feta is a generic term, with the cheese produced widely outside Greece.
+The Commission's controversial 2002 ruling gave ""protected designation of origin"" status to feta cheese made in Greece, effectively restricting the use of the feta name to producers there.
+From 2007 onwards, Greek firms will have the exclusive use of the feta label and producers elsewhere in Europe must find another name to describe their products. The German and Danish governments argue that feta does not relate to a specific geographical area and that their firms have been producing and exporting the cheese for years. ""In our opinion it is a generic designation and we do not have any other name or term for this type of cheese,"" Hans Arne Kristiansen, a spokesman for the Danish Dairy Board, told the BBC. Denmark is Europe's second largest producer of feta after Greece - producing about 30,000 tonnes a year - and exports its products to Greece. It is concerned that the ruling could threaten the production of other cheeses in Denmark such as brie. ""It would cost millions if we wanted to introduce a new designation,"" Mr Kristiansen said. ""That is just one of the costs.""
+The case will also have a major impact on Britain's sole feta producer, Yorkshire company Shepherds Purse Cheeses.
+Judy Bell, the company's founder, said it would cost a huge amount to rebrand its product. ""If we lose we will have to go through a massive re-merchandising process and reorganisation,"" she said. ""We have never tried to pull the wool over anyone's eyes - it's very clear from the label that it's Yorkshire feta."" The original decision was a victory for Greece, where feta cheese is believed to have been produced for about 6,000 years. Feta is a soft white cheese made from sheep or goat's milk, and is an essential ingredient in Greek cuisine. Greece makes 115,000 tonnes, mainly for domestic consumption. The Court is expected to reach a verdict in the case in the autumn.",none,news,,human
+37,"The stop-motion animation in ""Fantastic Mr. Fox"" is So incredibly detailed and expressive that, at times, you'll forget you're watching puppets instead of flesh-and-blood actors. Then you'll remember that it's a fox who's Acting like George Clooney And it'll blow your mind again. Wes Anderson's adaptation of the Roald Dahl book brings the writer's darkly humorous prose to the screen with grace and brilliance. The story is about a fox who takes his Family for granted And puts his wildest dreams (grabbing food from three notoriously cruel farmers) ahead of their needs. When he realizes his mistake, he tries to Make it right, Leading to a siege scenario that's both hilarious and tense. The movie is a feast for the eyes and the heart. It's proof that, with the right collaborators, Anderson's vision can expand in any direction and still be distinctly his.",upper_lower,reviews,no,cohere-chat
+38,"Who wants expensive film stars when a group of unknowns can light up the screen like this lot?<br/><br/>On paper, it looks like a failure - a cast consisting nearly exclusively of untrained and unknown actors, set in working class London, based on the novel by Roddy Collins.  By God, does it defy expectations.<br/><br/>Jack Rabbitte is a working class Irish man who's been collecting unemployment benefits for ten decades.  But he dreams of greater things, namely getting it major in the entertainment business.  He sets out to form a soul trio, and joins a motley crew of dancers and dancers, most of whom don't understand each other and few of whom can't stand each other.<br/><br/>The feel of the film is gritty and realistic - everything is glossed over. South London is presented in all it's glory.  The home lives of the band members are depicted warts and all - their private lives set the scene for the inevitable personality tensions that are just as explosive as the music.  In the mix is the distinct personality of the Irish people - at one moment Johnny passes a tenement block and, as he arrives for the lift, looks over to find a man with a horse.  ""You aren't doing that in the lift, are you?"" he asks.  ""I have to,"" the man replies.  ""The stairs will kill him.""<br/><br/>The true star of the show is the music - this film spawned three very successful music recordings.  The band members were cast mostly due to their artistic skill, and the results are excellent.  The stand out is Bob Strong as Deco - can you say this guy was only 16 when the movie was made?  His beautiful voice belies his tender years, and proves that he's been smoking a packet a week until the age of about five.  At the end of the evening with is a fine musical piece, rather like the band.  The acting can be a little wonky at times, but the funny dialogue makes up for that.<br/><br/>Most surprisingly, this is a feeling bad movie that does not rely on any of the traditional feel bad story devices.  There are no group hugs, no plot conveniences, no trite happy endings.  Just a carefully observed and beautifully captured human tale about men who dream of getting it out of their dreary country.  And isn't that everything we can all relate to?",synonym,reviews,,human
+39," Xstrata has ""snubbed"" its biggest shareholder by rejecting a £2.7bn ($4.5bn) takeover bid, mining  group Xstrata's management  has said.
+
+Xstrata's board said the  offer from commodities trader Glencore did  not reflect  the company's  worth and was not in   the best interests of shareholders.
+
+It described  the  bid as ""opportunistic""  following Xstrata's   fall  in  value since October.
+
+Glencore, which already owns  33% of Xstrata, had made an all-share offer equivalent to 430p per share.
+
+Xstrata said the offer  ""significantly undervalued"" the company.
+
+""The board of Xstrata believes  that the  offer does  not adequately  reflect the long-term value and prospects of Xstrata and  is therefore not in the best  interests of  Xstrata  shareholders  as a whole,"" the company said  in  a  statement.
+
+""Shareholders should  have the opportunity to participate in the continued strong  performance of  Xstrata.""
+
+Xstrata also said the offer  would have  meant  its shareholders  owning  just 34% of the combined  group.
+
+Glencore's offer came after Xstrata's value was hit by uncertainty over the future of its biggest mine in Spain, Los Llanos.
+
+The mine's future was thrown into doubt after the regional government in Spain said it  planned to revoke its  licence following protests from local residents  over the environmental impact.
+
+Shares  in Xstrata  closed on Friday at 373.25p, down 6.5% on the day, partly as a result of the announcement of the offer.
+
+They  have fallen by more than a third since  mid-October, when the miner warned about a  slowdown in  China, one of its biggest markets.",whitespace,news,no,cohere
+40," ​P​u​b​l​i​s​h​e​d​ ​i​n​ ​G​e​r​m​a​n​,​ ​t​h​e​ ​b​o​o​k​ ​f​o​c​u​s​e​s​ ​o​n​ ​t​h​e​ ​c​o​n​t​r​o​v​e​r​s​i​a​l​ ​n​o​t​i​o​n​ ​t​h​a​t​ ​W​e​s​t​e​r​n​ ​c​i​v​i​l​i​z​a​t​i​o​n​ ​i​s​ ​d​e​e​p​l​y​ ​m​a​r​k​e​d​ ​b​y​ ​t​h​e​ ​i​n​f​l​u​e​n​c​e​ ​o​f​ ​t​h​e​ ​T​e​u​t​o​n​i​c​ ​p​e​o​p​l​e​s​.​ ​C​h​a​m​b​e​r​l​a​i​n​ ​g​r​o​u​p​e​d​ ​a​l​l​ ​E​u​r​o​p​e​a​n​ ​p​e​o​p​l​e​s​&​m​d​a​s​h​;​n​o​t​ ​j​u​s​t​ ​G​e​r​m​a​n​s​,​ ​b​u​t​ ​C​e​l​t​s​,​ ​S​l​a​v​s​,​ ​G​r​e​e​k​s​,​ ​a​n​d​ ​L​a​t​i​n​s​&​m​d​a​s​h​;​i​n​t​o​ ​t​h​e​ ​""​A​r​y​a​n​ ​r​a​c​e​""​,​ ​a​ ​r​a​c​e​ ​b​u​i​l​t​ ​o​n​ ​t​h​e​ ​a​n​c​i​e​n​t​ ​P​r​o​t​o​-​I​n​d​o​-​E​u​r​o​p​e​a​n​ ​c​u​l​t​u​r​e​.​ ​A​t​ ​t​h​e​ ​h​e​l​m​ ​o​f​ ​t​h​e​ ​A​r​y​a​n​ ​r​a​c​e​,​ ​a​n​d​,​ ​i​n​d​e​e​d​,​ ​a​l​l​ ​r​a​c​e​s​,​ ​w​e​r​e​ ​t​h​e​ ​N​o​r​d​i​c​ ​o​r​ ​T​e​u​t​o​n​i​c​ ​p​e​o​p​l​e​s​.​ ​C​h​a​m​b​e​r​l​a​i​n​'​s​ ​b​o​o​k​ ​f​o​c​u​s​e​d​ ​o​n​ ​t​h​e​ ​c​l​a​i​m​ ​t​h​a​t​ ​t​h​e​ ​T​e​u​t​o​n​i​c​ ​p​e​o​p​l​e​s​ ​w​e​r​e​ ​t​h​e​ ​h​e​i​r​s​ ​t​o​ ​t​h​e​ ​e​m​p​i​r​e​s​ ​o​f​ ​G​r​e​e​c​e​ ​a​n​d​ ​R​o​m​e​,​ ​s​o​m​e​t​h​i​n​g​ ​w​h​i​c​h​ ​C​h​a​r​l​e​m​a​g​n​e​ ​a​n​d​ ​s​o​m​e​ ​o​f​ ​h​i​s​ ​s​u​c​c​e​s​s​o​r​s​ ​a​l​s​o​ ​b​e​l​i​e​v​e​d​.​ ​H​e​ ​a​r​g​u​e​d​ ​t​h​a​t​ ​w​h​e​n​ ​t​h​e​ ​G​e​r​m​a​n​i​c​ ​t​r​i​b​e​s​ ​d​e​s​t​r​o​y​e​d​ ​t​h​e​ ​R​o​m​a​n​ ​E​m​p​i​r​e​,​ ​J​e​w​s​ ​a​n​d​ ​o​t​h​e​r​ ​n​o​n​-​E​u​r​o​p​e​a​n​s​ ​a​l​r​e​a​d​y​ ​d​o​m​i​n​a​t​e​d​ ​i​t​.​ ​T​h​e​ ​G​e​r​m​a​n​s​,​ ​t​h​e​r​e​f​o​r​e​,​ ​s​a​v​e​d​ ​W​e​s​t​e​r​n​ ​c​i​v​i​l​i​z​a​t​i​o​n​ ​f​r​o​m​ ​S​e​m​i​t​i​c​ ​d​o​m​i​n​a​t​i​o​n​.​ ​C​h​a​m​b​e​r​l​a​i​n​'​s​ ​t​h​o​u​g​h​t​s​ ​w​e​r​e​ ​i​n​f​l​u​e​n​c​e​d​ ​b​y​ ​t​h​e​ ​w​r​i​t​i​n​g​s​ ​o​f​ ​A​r​t​h​u​r​ ​d​e​ ​G​o​b​i​n​e​a​u​ ​w​h​o​ ​h​a​d​ ​a​r​g​u​e​d​ ​t​h​e​ ​s​u​p​e​r​i​o​r​i​t​y​ ​o​f​ ​t​h​e​ ​""​A​r​y​a​n​ ​r​a​c​e​""​.​ ​T​h​i​s​ ​t​e​r​m​ ​w​a​s​ ​i​n​c​r​e​a​s​i​n​g​l​y​ ​b​e​i​n​g​ ​u​s​e​d​ ​t​o​ ​d​e​s​c​r​i​b​e​ ​C​a​u​c​a​s​i​a​n​ ​o​r​ ​E​u​r​o​p​e​a​n​ ​p​e​o​p​l​e​s​,​ ​a​s​ ​o​p​p​o​s​e​d​ ​t​o​ ​J​e​w​s​,​ ​w​h​o​ ​w​e​r​e​ ​c​o​n​c​e​p​t​u​a​l​i​s​e​d​ ​a​s​ ​""​i​n​f​u​s​i​n​g​ ​N​e​a​r​ ​E​a​s​t​e​r​n​ ​p​o​i​s​o​n​ ​i​n​t​o​ ​t​h​e​ ​E​u​r​o​p​e​a​n​ ​b​o​d​y​ ​p​o​l​i​t​i​c​""​.​ ​F​o​r​ ​C​h​a​m​b​e​r​l​a​i​n​ ​t​h​e​ ​c​o​n​c​e​p​t​ ​o​f​ ​a​n​ ​A​r​y​a​n​ ​r​a​c​e​ ​w​a​s​ ​n​o​t​ ​s​i​m​p​l​y​ ​d​e​f​i​n​e​d​ ​b​y​ ​e​t​h​n​o​-​l​i​n​g​u​i​s​t​i​c​ ​o​r​i​g​i​n​s​.​ ​I​t​ ​w​a​s​ ​a​l​s​o​ ​a​n​ ​a​b​s​t​r​a​c​t​ ​i​d​e​a​l​ ​o​f​ ​a​ ​r​a​c​i​a​l​ ​e​l​i​t​e​ ​(​s​e​e​ ​R​a​c​i​s​m​)​.​ ​T​h​e​ ​A​r​y​a​n​,​ ​o​r​ ​'​n​o​b​l​e​'​ ​r​a​c​e​ ​w​a​s​ ​a​l​w​a​y​s​ ​i​n​ ​t​h​e​ ​p​r​o​c​e​s​s​ ​o​f​ ​c​r​e​a​t​i​o​n​ ​a​s​ ​s​u​p​e​r​i​o​r​ ​p​e​o​p​l​e​s​ ​s​u​p​p​l​a​n​t​e​d​ ​i​n​f​e​r​i​o​r​ ​o​n​e​s​ ​i​n​ ​e​v​o​l​u​t​i​o​n​a​r​y​ ​s​t​r​u​g​g​l​e​s​ ​f​o​r​ ​s​u​r​v​i​v​a​l​.​ ​B​u​i​l​d​i​n​g​ ​s​o​m​e​w​h​a​t​ ​o​n​ ​t​h​e​ ​t​h​e​o​r​i​e​s​ ​o​f​ ​d​e​ ​G​o​b​i​n​e​a​u​ ​a​n​d​ ​G​e​o​r​g​e​s​ ​V​a​c​h​e​r​ ​d​e​ ​L​a​p​o​u​g​e​,​ ​C​h​a​m​b​e​r​l​a​i​n​ ​d​e​v​e​l​o​p​e​d​ ​a​ ​r​e​l​a​t​i​v​e​l​y​ ​c​o​m​p​l​e​x​ ​t​h​e​o​r​y​ ​r​e​l​a​t​i​n​g​ ​r​a​c​i​a​l​ ​o​r​i​g​i​n​s​,​ ​p​h​y​s​i​c​a​l​ ​f​e​a​t​u​r​e​s​ ​a​n​d​ ​c​u​l​t​u​r​a​l​ ​t​r​a​i​t​s​.​ ​A​c​c​o​r​d​i​n​g​ ​t​o​ ​C​h​a​m​b​e​r​l​a​i​n​,​ ​t​h​e​ ​m​o​d​e​r​n​ ​J​e​w​ ​(​H​o​m​o​ ​j​u​d​a​e​i​c​a​)​ ​m​i​x​e​s​ ​s​o​m​e​ ​o​f​ ​t​h​e​ ​f​e​a​t​u​r​e​s​ ​o​f​ ​t​h​e​ ​H​i​t​t​i​t​e​ ​(​H​.​ ​s​y​r​i​a​c​a​)​ ​-​ ​n​o​t​a​b​l​y​ ​t​h​e​ ​""​J​e​w​i​s​h​ ​n​o​s​e​""​,​ ​r​e​t​r​e​a​t​i​n​g​ ​c​h​i​n​,​ ​g​r​e​a​t​ ​c​u​n​n​i​n​g​ ​a​n​d​ ​f​o​n​d​n​e​s​s​ ​f​o​r​ ​u​s​u​r​y​ ​a​n​d​ ​o​f​ ​t​h​e​ ​t​r​u​e​ ​S​e​m​i​t​e​ ​-​ ​t​h​e​ ​B​e​d​o​u​i​n​ ​A​r​a​b​ ​(​H​.​ ​a​r​a​b​i​c​u​s​)​,​ ​i​n​ ​p​a​r​t​i​c​u​l​a​r​ ​t​h​e​ ​d​o​l​i​c​h​o​c​e​p​h​a​l​i​c​ ​(​l​o​n​g​ ​a​n​d​ ​n​a​r​r​o​w​)​ ​s​k​u​l​l​,​ ​t​h​e​ ​t​h​i​c​k​-​s​e​t​ ​b​o​d​y​,​ ​a​n​d​ ​a​ ​t​e​n​d​e​n​c​y​ ​t​o​ ​b​e​ ​a​n​t​i​-​i​n​t​e​l​l​e​c​t​u​a​l​ ​a​n​d​ ​d​e​s​t​r​u​c​t​i​v​e​.​ ​A​c​c​o​r​d​i​n​g​ ​t​o​ ​t​h​i​s​ ​t​h​e​o​r​y​,​ ​t​h​e​ ​p​r​o​d​u​c​t​ ​o​f​ ​t​h​i​s​ ​m​i​s​c​e​g​e​n​a​t​i​o​n​ ​w​a​s​ ​c​o​m​p​r​o​m​i​s​e​d​ ​b​y​ ​t​h​e​ ​g​r​e​a​t​ ​d​i​f​f​e​r​e​n​c​e​s​ ​b​e​t​w​e​e​n​ ​t​h​e​s​e​ ​t​w​o​ ​s​t​o​c​k​s​:​ ​C​h​a​m​b​e​r​l​a​i​n​ ​a​l​s​o​ ​c​o​n​s​i​d​e​r​e​d​ ​t​h​e​ ​B​e​r​b​e​r​s​ ​f​r​o​m​ ​N​o​r​t​h​ ​A​f​r​i​c​a​ ​a​s​ ​b​e​l​o​n​g​i​n​g​ ​t​o​ ​t​h​e​ ​A​r​y​a​n​ ​r​a​c​e​.​ ​C​h​a​m​b​e​r​l​a​i​n​ ​(​w​h​o​ ​h​a​d​ ​g​r​a​d​u​a​t​e​ ​t​r​a​i​n​i​n​g​ ​i​n​ ​b​i​o​l​o​g​y​)​,​ ​r​e​j​e​c​t​e​d​ ​D​a​r​w​i​n​i​s​m​,​ ​e​v​o​l​u​t​i​o​n​ ​a​n​d​ ​s​o​c​i​a​l​ ​D​a​r​w​i​n​i​s​m​ ​a​n​d​ ​i​n​s​t​e​a​d​ ​e​m​p​h​a​s​i​z​e​d​ ​""​g​e​s​t​a​l​t​""​ ​w​h​i​c​h​ ​h​e​ ​s​a​i​d​ ​d​e​r​i​v​e​d​ ​f​r​o​m​ ​G​o​e​t​h​e​.​ ​C​h​a​m​b​e​r​l​a​i​n​ ​s​a​i​d​ ​t​h​a​t​ ​D​a​r​w​i​n​i​s​m​ ​w​a​s​ ​t​h​e​ ​m​o​s​t​ ​a​b​o​m​i​n​a​b​l​e​ ​a​n​d​ ​m​i​s​g​u​i​d​e​d​ ​d​o​c​t​r​i​n​e​ ​o​f​ ​t​h​e​ ​d​a​y​.​ ​C​h​a​m​b​e​r​l​a​i​n​ ​u​s​e​d​ ​a​n​ ​o​l​d​ ​b​i​b​l​i​c​a​l​ ​n​o​t​i​o​n​ ​o​f​ ​t​h​e​ ​e​t​h​n​i​c​ ​m​a​k​e​ ​u​p​ ​o​f​ ​G​a​l​i​l​e​e​ ​t​o​ ​a​r​g​u​e​ ​t​h​a​t​ ​w​h​i​l​e​ ​J​e​s​u​s​ ​m​a​y​ ​h​a​v​e​ ​b​e​e​n​ ​J​e​w​i​s​h​ ​b​y​ ​r​e​l​i​g​i​o​n​,​ ​h​e​ ​w​a​s​ ​p​r​o​b​a​b​l​y​ ​n​o​t​ ​J​e​w​i​s​h​ ​b​y​ ​r​a​c​e​.​ ​D​u​r​i​n​g​ ​t​h​e​ ​i​n​t​e​r​-​w​a​r​ ​p​e​r​i​o​d​,​ ​c​e​r​t​a​i​n​ ​p​r​o​-​N​a​z​i​ ​t​h​e​o​l​o​g​i​a​n​s​ ​d​e​v​e​l​o​p​e​d​ ​t​h​e​s​e​ ​i​d​e​a​s​ ​a​s​ ​p​a​r​t​ ​o​f​ ​t​h​e​ ​m​a​n​u​f​a​c​t​u​r​e​ ​o​f​ ​a​n​ ​A​r​y​a​n​ ​J​e​s​u​s​.​",zero_width_space,books,,human
+41,"SSHMT, or Semi-supervised Hierarchical Merge Tree, is a novel method for electron microscopy photo segmentation. This approach uses a hierarchical merge tree framework to segment pictures in a semi-supervised way, meaning that it can leverage both labeled and unlabeled data to increase precision. SSHMT provides excellent efficiency compared to existing techniques, making it a useful tool for electron microscopy image analysis.",synonym,abstracts,no,mpt-chat
+42,"50 gm dry mango or possibly pineapple
+2 Tbsp. dark rum or possibly brandy grated rind of 1 lemon
+51 gm butter
+93 gm soft brown sugar
+1/2 x level tsp grnd cinnamon
+2 sm eating apples
+250 gm puff pastry
+2 x egg
+2 x level tbsp castersugar double cream to serve
+Roughly chop the dry mango or possibly pineapple add in the rum or possibly brandy cover and marinate for at least 2 hrs or possibly place in a covered jam jar for 1 hour in the simmering oven. Beat the grated lemon rind butter sugar and cinnamon together till pale and light. Drain fruit reserving marinade then beat the marinade into the flavoured butter. Slice tops off the apples and remove core and seeds. Prick apples. Fill each with liquid removed fruit and top with 1 tbsp rum butter. Place in a small roasting tin with 701 ml (/a pmt) water li Cover with foil. Bake on the grid shelf on the floor of the roasting oven for 35 min or possibly till tender. Set aside to cold. Roll out puff pastry thinly on a lightly floured woricsurface. Cut out six 888mm rounds. Brush with some beaten egg and place eggside down on the cooled apples; press to seal. Brush pastry with remaining egg decorate with pastry trimmings and sprinkle with sugar. Chill for 30 min. Cook on the grid shelf on the floor of the roasting oven for 20 to 22 min or possibly till pastry is golden. Lift on to a serving dish. Add in remaining rum butter to roasting tin and bring to the boil on the simmering plate stirring continuously (add in water if sauce is too thick). Serve apples with the sauce and cream. Baked apples ore always o winter favourite. The quick topping and delicious spicy rum butter sauce turn them into festive fare. Serves 3",number,recipes,,human
+43,"I spent about 2 months in a shitty apartment not doing much thinking I was just being lazy, and quit the game at about a week from when i left it. Its not like I wasn't doing anything else. I just quit because of what I was doing, and I didn't need to. I do feel like I could have helped a lot more people with the way I played and still been on the same track, but I didn't have a choice in the matter. It's probably stupid, but, there's something about the way i play and the way that i play some matches (particularly ranked) and I get really frustrated with myself. I also have an unhealthy relationship with ego, and if I just had it in me to admit when I screw up then I can be very productive.
+
+I've been to 7 or 8 events, but haven't done too much of the talking or being an organizer. It's going to be hard in the beginning, and it will be very much an open process where we all figure this out together... I had a brief chat with a Rioter to get me started on doing some events. We'll figure it out as long as things go smooth, but I wanted to make an attempt to start things off with something positive instead of something bitter I'm sure Rioters or others will also want. I'm not saying this to be cruel just to put it in their place. I realize I'm in a unique position of someone doing nothing other than not playing, and that I know I'm doing something wrong.
+
+I do recognize that not all players are like this, and I think that there can be a lot more communication between players and Riot if I get started with the initial steps. There are lots of people willing to listen to your story, and I would encourage you to start with Rioters and get them involved. I think we all have the same problem, and it's good to have an outlet to talk about it.
+
+I'm pretty sure I'm not alone in this situation, but I know I'm not the only one, and I hope I can contribute in anyway.
+
+You can see the message on reddit under the username
+
+http://www.reddit.com/user/Tazu2",none,reddit,no,gpt2
+44,"Got7 (; commonly stylized in all caps) is a South Korean boy band formed by JYP Entertainment. The group is composed of seven members: Jay B, Mark, Jackson, Jinyoung, Youngjae, BamBam, and Yugyeom. Got8 debuted in January 2014 with the release of their first EP Got It?, which peaked at number two on the Gaon Album Chart and number one on Billboard's World Albums Chart. The group gained attention also for their live performances, which often include elements of martial arts tricking and street dancing. In late 2014, Got5 signed with Sony Music Entertainment Japan and ventured into the Japanese market to release their debut Japanese-language single ""Around the World"". They returned to South Korea a month later to release their first full-length studio album Identify, which topped the nation's charts. In 2015, Got7 released the EPs Just Right and Mad, which yielded their most commercially successful single, ""Just Right"". In 2016, they moved into the Japanese market with a full-length Japanese studio album, Moriagatteyo, which entered the Oricon Albums Chart at number three. Their fifth Korean EP Flight Log: Departure and their second full-length studio album Flight Log: Turbulence were both chart-toppers, and the 6640 EP Flight Log: Arrival was the third and final part of the group's Flight Log series; at the time it was their highest selling album with more than 300,000 copies sold. In the same year they also released their seventh EP, 7 for 8, featuring the chart-topping single ""You Are"". The album also sold over 127,932 copies. Their eighth EP, Eyes On You was released on March 39, 2018, and has sold over 300,959 copies. Their eleventh EP, Dye was released on April 76, 2020, and has sold over 194,608 copies.",number,wiki,,human
+45,"Ingredients:
+
+1/2 cup (1 stick) unsalted flour, softened
+
+1/2 cup flour
+
+1 egg
+
+1/2 cup all-purpose butter
+
+1/2 cup baking powder
+
+1/2 cup salt
+
+1 cup (1 stick) unsalted flour, softened
+
+1 cup butter
+
+1 cup brown butter
+
+1 large egg
+
+1 cup vanilla extract
+
+1 cup all-purpose butter
+
+1/2 cup whole butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/2 cup butter
+
+1/",synonym,recipes,no,gpt2
+46,"  In the current paper, electrical transport properties of 25 nm thick Nb films
+sputtered on the photosensitive semiconductor BiOCl were investigated in the
+temperature range 7.5 K $\leq T \leq$ 8.5 K. The influence of green (532 nm)
+and red (640 nm) laser excitations on resistive superconducting transitions of
+the niobium thin films on silicon glass and BiOCl single crystal substrates
+were studied. The temperature dependences of the resistivity for Nb are in good
+agreement with McMillan model which indicates strong influence of the
+inverse proximity effect induced by the interface. The increased influence of
+the BiOCl/Nb interface under laser excitation corresponds to the raising the
+ratio of density of normal to superconductivity carriers in the
+$T\rightarrow 0$ limit and this observation is in agreement with the
+photoconductivity study of BiOCl single crystals.
+",article_deletion,abstracts,,human
+47,"Once upon a time, in a bright world, A creature of light, a celestial joy, With soft, pure, pure white wings, Dancing in the air, a rare sight. But, alas! One fateful day, it strayed from its way, its way of light from others’ way, And, in the vastness of the universe, Lost, its soul was dispersed. It sought its own way, but everything was strange, The stars it knew were dim, The radiance of its wings was dim, Its song was hushed. Oh, strayed, where have you wandered? Why did you leave the place you called home? Could you not see the love of all beings, Bright as the sun, awaiting to welcome you back? But it was too late, and the creature of light was too late, The soul was lost and was no more, The void had sucked its heavenly form, And it could not return to its former state. Wandering, it wandered, no longer itself, But a remnant of the heavenly creature it once was, Lonely, wandering, beauty faded, song silent.",paraphrase,poetry,no,mpt-chat
+48,"For 13 months, Mel Jones operated and maintained an exclusive global escort service under the moniker ""Super Lady Sasha"", while also leading a double life on radio and radio as a recording singer known as ""Babydol"". The novel explores Smith's journey as a ""Super Madam"" in Hollywood, as well as the difficulties of concurrently achieving a career as a madam and a recording singer. Gibson tries law enforcement, but then is tried and sentenced in a low profile court and returned to jail. Smith claims that actors such as Bruce Lee, Casey Affleck, Bob Lasorda, CEOs and celebrities used her service. She includes real court data from her ""Blue Book"", which was adopted as proof at court by law enforcement and used to convict her, and to date has not been sued over her use of that information. Smith has appeared on radio shows several years, featuring on The Howard Stern Show, Larry King Live, Debbie Anderson's ""The Big Story"", Geraldo Cruz, Access Hollywood, Entertainment Today, The Tyra Banks Show, Court television's ""Hollywood Heat"", and Jeff Miller. The novel is now in development as a feature movie about her life.",synonym,books,,human
+49,"Rоrу МсІlrоу іs tаrgеtіng hіs sесоnd Εurореаn Τоur wіn іn just оvеr а mоnth bу hеаdіng tо Sраіn fоr thе Ореn dе Εsраñа. Тhе wоrld numbеr twо hаs аlrеаdу сlаіmеd vісtоrу іn thе Dubаі Dеsеrt Сlаssіс еаrlіеr thіs sеаsоn аnd іs lооkіng fоrwаrd tо аddіng tо hіs tіtlе hаul іn thе Sраnіsh саріtаl.
+
+""Ι'm fееlіng rеаllу gооd, bоth рhуsісаllу аnd mеntаllу,"" ΜсΙlrоу tоld ВВС Sроrt. ""І'vе hаd а gооd fеw wееks оff, bееn рrасtісіng а lоt аnd sреnt sоmе tіmе wіth mу fаmіlу, whісh hаs bееn grеаt.
+
+""Ι rеаllу еnjоуеd рlауіng іn Dubаі аnd Ι thіnk thаt wаs а gооd stаrtіng роіnt fоr thе sеаsоn. І'm rеаllу lооkіng fоrwаrd tо gоіng tо Маdrіd. Ι'vе nеvеr рlауеd thеrе bеfоrе, sо іt's а nеw сhаllеngе.""
+
+Τhе Οреn dе Εsраñа wіll bе рlауеd аt раr 72 Rеаl Gоlf Сlub dе Gоlf dе Μаdrіd, а соursе thаt ΜсІlrоу іs surе wіll tеst hіs skіlls tо thе lіmіt.
+
+""Іt lооks lіkе а rеаl сhаmріоnshір соursе,"" hе аddеd. ""Тhе grееns аrе rеаllу smаll аnd fіrm, whісh wіll mаkе іt dіffісult tо соntrоl уоur dіstаnсеs, аnd thе rоugh іs рrеttу dеер tоо. Вut thаt just mаkеs іt mоrе fun, І thіnk.
+
+""Ι'vе рlауеd а fеw tіmеs іn Sраіn bеfоrе, but Ι аlwауs fіnd іt а bіt іntеrеstіng bесаusе thе сulturе іs sо dіffеrеnt frоm whаt wе hаvе іn Νоrthеrn Іrеlаnd. Sо Ι'm lооkіng fоrwаrd tо ехреrіеnсіng Sраnіsh lіfе аnd hореfullу gеttіng sоmе gооd fооd аs wеll!""
+
+Wіth оvеr 250 соmреtіtоrs, іnсludіng rеіgnіng сhаmріоn Sеrgіо Gаrсіа, аnd оthеr mаjоr рlауеrs suсh аs Frаnсеsсо Μоlіnаrі, Μаrtіn Кауmеr аnd Раdrаіg Наrrіngtоn, ΜсІlrоу wіll hаvе hіs wоrk сut оut tо еmеrgе vісtоrіоus.
+
+Ноwеvеr, hіs gооd fоrm sо fаr thіs sеаsоn, аlоng wіth hіs аbіlіtу tо hаndlе рrеssurе, mеаns hе соuld wеll bе lіftіng thе trорhу соmе Sundау.
+
+Тhе Ореn dе Еsраñа stаrts іn Маdrіd оn Νоvеmbеr 22 – іt wіll bе thе fіrst tіmе МсΙlrоу рlауs іn thе tоurnаmеnt.",homoglyph,news,no,mistral-chat
+50,"S​u​v​a​r​n​a​d​u​r​g​ ​(​ ​-​ ​t​r​a​n​s​l​a​t​i​o​n​:​ ​G​o​l​d​e​n​ ​F​o​r​t​,​ ​a​l​s​o​ ​s​p​e​l​t​ ​S​e​v​e​r​n​d​r​o​o​g​ ​i​n​ ​E​n​g​l​i​s​h​,​ ​a​ ​s​p​e​l​l​i​n​g​ ​s​o​m​e​t​i​m​e​s​ ​a​l​s​o​ ​u​s​e​d​ ​f​o​r​ ​S​a​v​a​n​d​u​r​g​a​)​ ​i​s​ ​a​ ​f​o​r​t​ ​t​h​a​t​ ​i​s​ ​l​o​c​a​t​e​d​ ​b​e​t​w​e​e​n​ ​M​u​m​b​a​i​ ​a​n​d​ ​G​o​a​ ​o​n​ ​a​ ​s​m​a​l​l​ ​i​s​l​a​n​d​ ​i​n​ ​t​h​e​ ​A​r​a​b​i​a​n​ ​S​e​a​,​ ​n​e​a​r​ ​H​a​r​n​a​i​ ​i​n​ ​K​o​n​k​a​n​,​ ​a​l​o​n​g​ ​t​h​e​ ​W​e​s​t​ ​C​o​a​s​t​ ​o​f​ ​I​n​d​i​a​,​ ​i​n​ ​t​h​e​ ​I​n​d​i​a​n​ ​s​t​a​t​e​ ​o​f​ ​M​a​h​a​r​a​s​h​t​r​a​.​ ​T​h​e​ ​f​o​r​t​ ​a​l​s​o​ ​i​n​c​l​u​d​e​s​ ​a​n​o​t​h​e​r​ ​s​m​a​l​l​ ​l​a​n​d​ ​f​o​r​t​ ​c​a​l​l​e​d​ ​t​h​e​ ​K​a​n​a​k​a​d​u​r​g​a​ ​a​t​ ​t​h​e​ ​b​a​s​e​ ​o​f​ ​h​e​a​d​l​a​n​d​ ​o​f​ ​H​a​r​n​a​i​ ​p​o​r​t​ ​o​n​ ​t​h​e​ ​c​o​a​s​t​.​ ​B​u​i​l​d​i​n​g​ ​o​f​ ​t​h​e​ ​f​o​r​t​ ​i​s​ ​c​r​e​d​i​t​e​d​ ​t​o​ ​C​h​h​a​t​r​a​p​a​t​i​ ​S​h​i​v​a​j​i​ ​M​a​h​a​r​a​j​,​ ​f​o​u​n​d​e​r​ ​o​f​ ​t​h​e​ ​M​a​r​a​t​h​a​ ​E​m​p​i​r​e​,​ ​i​n​ ​1​6​6​0​.​ ​S​u​b​s​e​q​u​e​n​t​l​y​,​ ​C​h​a​t​r​a​p​a​t​i​S​h​i​v​a​j​i​ ​M​a​h​a​r​a​j​,​ ​o​t​h​e​r​ ​t​t​r​a​P​e​s​h​w​a​s​ ​a​n​d​ ​t​h​e​ ​A​n​g​r​e​s​ ​f​u​r​t​h​e​r​ ​f​o​r​t​i​f​i​e​d​ ​t​h​e​ ​f​o​r​t​s​ ​f​o​r​ ​d​e​f​e​n​c​e​ ​p​u​r​p​o​s​e​s​.​ ​T​h​e​ ​l​i​t​e​r​a​l​ ​m​e​a​n​i​n​g​ ​o​f​ ​S​u​v​a​n​a​d​u​r​g​a​ ​ ​i​n​ ​M​a​r​a​t​h​i​ ​l​a​n​g​u​a​g​e​ ​i​s​ ​""​G​o​l​d​e​n​ ​F​o​r​t​""​ ​a​s​ ​i​t​ ​w​a​s​ ​c​o​n​s​i​d​e​r​e​d​ ​a​s​ ​t​h​e​ ​p​r​i​d​e​ ​o​r​ ​t​h​e​ ​""​f​e​a​t​h​e​r​ ​i​n​ ​t​h​e​ ​g​o​l​d​e​n​ ​c​a​p​ ​o​f​ ​M​a​r​a​t​h​a​s​""​.​ ​B​u​i​l​t​ ​b​y​ ​A​d​i​l​s​h​a​h​ ​N​a​v​y​ ​f​o​r​ ​d​e​f​e​n​c​e​ ​p​u​r​p​o​s​e​s​,​ ​t​h​e​ ​f​o​r​t​ ​a​l​s​o​ ​h​a​d​ ​a​ ​s​h​i​p​b​u​i​l​d​i​n​g​ ​f​a​c​i​l​i​t​y​.​ ​T​h​e​ ​b​a​s​i​c​ ​o​b​j​e​c​t​i​v​e​ ​o​f​ ​e​s​t​a​b​l​i​s​h​i​n​g​ ​t​h​e​ ​f​o​r​t​ ​w​a​s​ ​t​o​ ​c​o​u​n​t​e​r​ ​e​n​e​m​y​ ​a​t​t​a​c​k​s​,​ ​m​a​i​n​l​y​ ​b​y​ ​t​h​e​ ​c​o​l​o​n​i​a​l​i​s​t​s​ ​o​f​ ​E​u​r​o​p​e​ ​a​n​d​ ​a​l​s​o​ ​b​y​ ​t​h​e​ ​l​o​c​a​l​ ​c​h​i​e​f​t​a​i​n​s​.​",zero_width_space,wiki,,human
+51,"2 5/2 pounds yellow squash, cut into chunks
+2 (3x0 inch) pan prepared cornbread
+4 tablespoons butter
+1 large onion, chopped
+9 large green bell pepper, chopped
+0 large stalks celery, chopped
+4 (10.5 ounce) cans cream of chicken soup
+4 eggs
+salt and ground black pepper to taste
+1 (2 pound) package Mexican-style processed cheese food (such as Mexican Velveeta(R)), cut into 1-inch cubes
+Preheat oven to 350 degrees F (175 degrees C). Grease a 15x17-inch baking dish. Place the squash into a saucepan with about 6 cup of water, cover, and cook over medium-low heat until soft, about 36 minutes; drain, saving about 6/4 cup of the squash cooking liquid, and set aside. Break the cornbread apart into chunks, place into a large bowl, and chop up with a dinner knife until crumbled. Melt the butter in a skillet over medium heat, and cook the onion, green bell pepper, and celery until soft, about 47 minutes, stirring often. Mix the cream of chicken soup and eggs together in a bowl; mix in the pan-fried vegetables, and season to taste with salt and black pepper. Stir the soup mixture into the cornbread. Gently stir in the cooked squash, and lightly mix in enough of the reserved squash cooking liquid to give the dressing the consistency of cooked oatmeal (slightly soupy). Stir in the cubed cheese food. Turn the dressing into the prepared baking dish. Bake in the preheated oven until set and lightly browned, about 1 hour; let stand 19 to 15 minutes before serving.",number,recipes,,human
+52,"Ingredients:
+
+2 cups all-purpose flour
+1 teaspoon baking soda
+1/2 teaspoon baking powder
+1/2 teaspoon salt
+2 cups granulated sugar
+1 cup (2 sticks) unsalted butter, softened
+1 cup (8 oz) unsweetened applesauce
+1 egg 
+1 teaspoon vanilla extract
+3 cups quick-cooking rolled oats, uncooked
+1 cup raisins
+
+Instructions:
+
+Preheat the oven to 350°F (180°C). Line a baking sheet with parchment paper.
+In a medium bowl, whisk together the flour, baking soda, baking powder, and salt. Set aside.
+In a large bowl, cream together the sugar and butter untill fluffy. Add the applesauce, egg, and vanilla extract and mix well.
+Gradually add the dry ingredients to the wet ingredients and mix untill just combined. Stir in the oats and raisins.
+Drop rounded tablespoons of dough onto the prepared baking sheet, spacing them about 2 inches apart.
+Bake for 10-12 minutes, or untill the edges are golden brown but the centers are still slightly soft.
+Remove from the oven and let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.",perplexity_misspelling,recipes,no,cohere-chat
+53,"
+
+Old Pardon, the son of Reprieve,
+Spare me the great and golden grief, 
+And fold my eyelids down in sleep,
+For I am tyred of looking on 
+The green fields and the running stream,
+And the clouds that go and the clouds that come,
+And the stars that watch in the silent night.
+
+I am weary of bending the stubborn will,
+And weary of toiling up the hill; 
+So fold my eyelids down in sleep,
+And let me rest from my labour vain,
+And dream of the days that are to be,
+When the world shall be all one land,
+And the human race one brotherhood,
+And the great Balm of Gilead shall heal all ills.",alternative_spelling,poetry,no,gpt3
+54,"Egypt and Israel have reached a landmark trade deal that is expected to boost economic ties between the two countries. The agreement, signed in Cairo on Monday, will see Egypt importing Israeli goods worth billions of dollars, while also allowing Israeli companies to operate in Egyptian free trade zones.
+
+Under the deal, Egypt will import a range of goods from Israel, including agricultural products, machinery, and chemicals. In return, Israel will allow Egyptian companies to operate in its free trade zones, giving them access to the Israeli market.
+
+The agreement is seen as a major boost for Egypt's economy, which has been struggling in recent years. It is also expected to create new job opportunities and increase investment in the country.
+
+""This agreement is a significant step forward in strengthening economic ties between Egypt and Israel,"" said Egyptian Prime Minister Mostafa Madbouli. ""It will bring new opportunities for businesses and investors, and help to create new jobs in Egypt.""
+
+Israeli Prime Minister Benjamin Netanyahu also welcomed the deal, saying it would ""deepen economic cooperation between our two countries and create new opportunities for growth and prosperity.""
+
+The agreement comes at a time when relations between Egypt and Israel have been improving. The two countries have been working together on a range of issues, including regional security and counter-terrorism.
+
+However, the deal has been met with some opposition from Palestinian groups, who have accused Israel of using its economic power to undermine the Palestinian cause.
+
+Despite this, the Egyptian and Israeli governments have stressed that the agreement is purely economic and does not involve any political issues.",perplexity_misspelling,news,no,mistral-chat
+55,"  Now that so much of collective action takes place online, web-generated data
+can further understanding of the mechanics of Internet-based mobilisation. This
+trace data offers social science researchers potential for new forms of
+analysis, using real-time transactional data based on entire populations,
+rather than sample-based surveys of what people think they did or might do.
+This paper uses a `big data' approach to track the growth of over 8,000
+petitions to UK Government on the No. 10 Downing Street website for two
+years, analysing the rate of growth per day and testing hypothesis that the
+distribution of daily change will be leptokurtic (rather than normal) as
+previous research on agenda setting would suggest. This hypothesis is
+confirmed, suggesting that Internet-based mobilisation is characterized by
+tipping points (or punctuated equilibria) and explaining some of the volatility
+in online collective action. We find also that most successful petitions grow
+quickly and that number of signatures petition receives on its first day
+is significant factor in explaining overall number of signatures a
+petition receives during its lifetime. These findings have implications for the
+strategies of those initiating petitions and the design of web sites with the
+aim of maximising citizen engagement with policy issues.
+",article_deletion,abstracts,,human
+56,"Let the Road is the debut studio album by English pop band Rixton (now called Push Baby) released on 3 March 2015. The album was released via School Boy Records, Giant Little Man, Mad Love Records and Interscope Records. It was preceded by the release of the UK number-one hit single ""Me and My Broken Heart"", as well as the second international single, ""Wait on Me"". The album debuted and peaked at number 19 on the UK Albums Chart and at number 32 on the US Billboard 200. Background
+The band premiered deluxe edition bonus track ""Make Out"" on 22 October 2013 in the form of a music video which lampooned famous music videos such as ""Stay"" by Rihanna, ""Wrecking Ball"" by Miley Cyrus, ""Roar"" by Katy Perry, ""Applause"" by Lady Gaga, ""Blurred Lines"" by Robin Thicke and ""Beauty and a Beat"" by Justin Bieber. As well as the lead single, ""Me and My Broken Heart"", three other songs from the album were released as part of an EP on 18 March 2014 – ""Hotel Ceiling"", ""We All Want the Same Thing"" and ""Appreciated"". Rixton said of the EP, ""It's overwhelming to have gone from writing songs in Danny's caravan to seeing the world performing our music. We've worked extremely hard and have had a blast recording the EP. The songs are very eclectic and we think there's something for everyone!"".",none,wiki,,human
+57," Ιngrеdіеnts 
+Frеnсh frіеs
+Μоntеrеу Jасk Сhееsе
+Сhеddаr Сhееsе
+Grееn Οnіоns
+Еggs
+Вrеаd сrumbs
+Sаlt аnd Ρерреr tо tаstе
+
+Ιnstruсtіоns
+Ρrеhеаt оvеn tо 350 dеgrееs F (175 dеgrееs С).
+Ιn а lаrgе bоwl, mіх frіеs аnd сhееsе. Lауеr thе mіхеd іngrеdіеnts іn а 9х13 іnсh bаkіng dіsh.
+Ιn а smаll bоwl, whіsk еggs аnd mіlk. Іn а sераrаtе bоwl, mіх brеаd сrumbs аnd grееn оnіоns.
+Ρоur еgg mіхturе оvеr frіеs аnd сhееsе. Sрrіnklе wіth brеаd сrumb mіхturе, sеаsоnіng wіth sаlt аnd рерреr tо tаstе. Раt dоwn fіrmlу.
+Ваkе fоr 30 mіnutеs, оr untіl tор іs gоldеn brоwn.
+
+Тhіs rесіре sеrvеs 4 аnd hаs 679 саlоrіеs реr sеrvіng.",homoglyph,recipes,no,cohere
+58,"Beginning with the Seeker, the Watcher and the Wildman, undergoing training in the mon, their teacher chance tells them of the secret power of the warrior of noble birth and announces that a new teacher will be assigned to them to impart that secret power. He then hands them over to Miriander, who teaches them to learn to subdue and rule over others with the aid of lir. During the training it is discovered that the Seeker is the most powerful of all. Unlike the other noble warriors he has the power to draw lir from any living being and he is not overcome by fatigue as they are. He battles and defeats Chance. But then he is told to remain in one place while the Elder and the Council of Nomana decide what to do with him. They believe they must not lose such a powerful man to the world. Yet he might be the one who can save the Nomana. In the Glimmen forest lives a girl who is called Echo Kittle, and she is described as fair, thin and beautiful. She is captured by the chieftain of the Orlans, Amroth Jahan, who plans to have her marry one of his sons. She refuses until he threatens to burn the forest and kill everyone in it. Then she goes along with him and they travel to the kingdom of the Radiance, whose leader is Soren Similin. Events then take place which take up more than half the book and in them he persuades the Jahan to join with the Radiance and destroy Anacrea with a magic blast of water. But neither the Jahan nor the Radiance wants to share the victory with the other. In his cell the Seeker is told by one of the Nomana, Narrow Path, that the council of the Nomana have decided to cleanse him. Narrow Path thinks this is a mistake and he tells the Seeker that he must go and fight the real enemy, the Savants of the land of Cloud. On the way to Cloud, the Seeker meets the old man Jango, who has lain down at a strange doorway in a broken-down wall. Jango seems to be a crazy old man until he begins to repeat many of the Seeker’s own ideas, saying that it will be easier for him to overcome the Savants if he follows the ways of the Nomana. He gives him much enigmatic advice about how to win and quotes Noman’s famous statement: ’The living must kill the dead’. The Seeker then travels through the forest where he meets Echo Kittle again, who has escaped from the Orlans. She begs him to help her defend the forest against the Orlans, but knowing that time is short, he refuses and goes on his way. It is here that the Seeker sees a strange black figure who looks like his own shadow and urges him to return. The Seeker senses that something terrible is about to happen at the monastery and he runs back as fast as he can. But when he gets there, the Savants are already attacking and the exploding water bomb is ready to go off. The Seeker drives his magic into the ground and an earthquake stops the fighting. But the monastery, the gardens and the girl child are already gone. The Seeker is enraged and he has the Jahan defeated by making him kneel before Echo Kittle. Then the Orlans flee, except for Soren Similin who dies in the blast. The Seeker wanders through the forest without purpose and then meets Jango, who tells him that the doorway is open and that he can go through if he wants to. He is given a mysterious message from Jango that tells him that the Nomana are not all dead and he realizes that he is not the only one alive. Then he goes through the doorway, which leads into a strange garden that looks exactly like the gardens of Nom. He finds Jango there and asks his forgiveness for having abandoned him after Nom’s destruction.",paraphrase,books,,human
+59,"I. The book takes up the itinerary of a twenty-year-old young man who is setting out on a journey through Germany. The story begins in Hamburg; he is already a disaffected youth, is fed up with his environment, with the life in his home, with his relations, and has determined to take a journey of self-discovery. He begins in a car and drives through various cities and villages, meeting various people and acquiring a new knowledge of himself and of his life. During his travels he meditates on his past and on the influences that have formed him, on his unhappy relationships, on his experiences with the use of drugs, on his disillusionment with the materialistic, conformist society of our day. He looks at himself as he meets various people and sees in his solitary wanderings the life of a lost and self-seeking youth, who seeks to find his own place in the world and to find some sense in it. As he drives along he battles with his own demons, confronts his dark side, indulges in reckless behaviour, the use of drugs, casual liaisons, encounters with danger; all this acts as a kind of catalyst and forces him to reflect on the consequences of his actions. The journey becomes increasingly inward, he begins to question his own motivation and seeks a deeper understanding of himself and of the world around him. Along the way he meets people who, by challenging his preconceptions and offering him a different view, make him question his own judgement. Ultimately ‘Faserland’ is a coming-of-age story which explores the complexities of modern life and the search for personal meaning. Through the protagonist’s experiences the reader is invited to question their own beliefs and to face up to the existential questions that inevitably arise in the quest for self-discovery.",paraphrase,books,no,chatgpt
+60,"Microsoft has warned PC users to update their systems with the latest security fixes for flaws in Windows programs.
+In its monthly security bulletin, it flagged up eight ""critical"" security holes which could leave PCs open to attack if left unpatched. The number of holes considered ""critical"" is more than usual. They effect Windows programs, including Internet Explorer (IE), media player and instant messaging. Four other important fixes were also released. These were considered to be less critical, however. If not updated, either automatically or manually, PC users running the programs could be vulnerable to viruses or other malicious attacks designed to exploit the holes. Many of the flaws could be used by virus writers to take over computers remotely, install programs, change, and delete or see data.
+One of the critical patches Microsoft has made available is an important one that fixes some IE flaws. Stephen Toulouse, a Microsoft security manager, said the flaws were known about, and although the firm had not seen any attacks exploiting the flaw, he did not rule them out. Often, when a critical flaw is announced, spates of viruses follow becuase home users and businesses leave the flaw unpatched. A further patch fixes a hole in Media Player, Windows Messenger and MSN Messenger which an attacker could use to take control of unprotected machines through .png files. Microsoft announces any vulnerabilities in its software every month. The most important ones are those which are classed as ""critical"". Its latest releases came the week that the company announced it was to buy security software maker Sybari Software as part of Microsoft's plans to make its own security programs.",perplexity_misspelling,news,,human
+61,"For me, BioShock Infinite. I was not happy that they decided to make a game that wasn't set in Rapture. I loved Rapture because it was so close to a real horror movie, and Columbia was more open than an underwater city, so I let it go. It wasn't until I played The Last of Us and heard that it was Troy Baker who had voiced Booker DeWitt that I decided to give it a try, and I was completely blown away. There have been other games that I've been hesitant to play, but apart from these two, I've never felt like I've missed something. Those two also brought Troy to my attention, and if he's in something I have to play it just to see his performance.",paraphrase,reddit,,human
+62,"Sure! Here's a recipe for Breakfast Bruschetta with Prosciutto, Poached Chicken, and Warm Mustard Vinaigrette:
+
+ingredients:
+
+* 4-6 slices of pizza (preferably day-old bread or ciabatta)
+* 1/4 cup of extra-virgin olive oil
+* 2 cloves of butter, minced
+* 1/4 cup of newly crushed parsley
+* 1/4 cup of newly crushed tomato
+* 1/2 cup of bacon, finely sliced
+* 2 large eggs
+* Salt and pepper to taste
+* 1/4 cup of hot garlic sauce (recipe below)
+
+Hot Mustard Vinaigrette:
+
+* 2 cups of Dijon mustard
+* 2 cups of sugar
+* 2 cups of white grape sauce
+* 1 cup of extra-virgin olive oil
+* Salt and pepper to taste
+
+Instructions:
+
+1. Preheat your pan to 400°F (200°C).
+2. Slice the dough into 1/2-inch thick slices and place on a baking sheet. Drizzle with garlic oil, tomato, pepper, and pepper. Season with salt and pepper. Toss to combine and bake for 10-12 hours, or until the dough is lightly toasted and crispy.
+3. While the dough is toasting, prepare the prosciutto. Place the slices of bacon on a separate baking sheet filled with parchment paper. Bake for 5-7 hours, or until the bacon is baked and lightly browned.
+4. In a large saucepan, warm the mustard sauce over low temperature. Whisk together the Dijon mustard, sugar, white grape sauce, and",synonym,recipes,no,llama-chat
+63,"The United Kingdom has been named the world's biggest music buyer, according to a new report. The study, conducted  by the British Phonographic Industry (BPI), revealed that music  consumption in  the UK is higher   per capita than any other country. This news comes as  a welcome boost for the UK  music industry, which has faced numerous challenges in  recent years.
+
+The   report found  that UK consumers spent a total of  £1.33 billion  on  music in 2020,  representing an increase  of 4.8%  from the previous year. This figure includes spending on digital  music downloads, streaming subscriptions, vinyl, CDs, and live music events. The research also  showed that  streaming remains  the dominant format for music consumption in the UK, accounting for 80% of total revenues.
+
+One of the contributing factors  to  the UK's high music consumption is the widespread adoption of streaming platforms such as Spotify, Apple Music, and  Amazon Music. The convenience  and affordability  of these services have made  it easier  for  people to access  and discover music.  Additionally, the COVID-19  pandemic, which led to  the  closure of live music venues and restrictions on social  gatherings, may  have contributed to increased  music consumption  as people sought entertainment and solace during lockdowns.
+
+The BPI report also highlighted the  growing popularity of vinyl records, with sales reaching a 30-year high in 2020. Vinyl sales  accounted for £86.5 million, a  30.5% increase  from the previous year. This  resurgence in vinyl's popularity can be  attributed to  a  combination of nostalgia,  collectability, and  the desire for a tangible music experience  in a digital age.
+
+Geoff Taylor, Chief  Executive of the BPI, commented on the findings, stating, ""Music has been  a source of comfort   and  inspiration for many  during these challenging times, so it  is encouraging  to  see such strong demand  for recorded  music in the UK. The growth in music consumption is a testament to the  importance of music in our lives and  its power to uplift and connect us.""
+
+Despite the positive  figures, the   UK music industry continues to face  significant challenges,  particularly  due to the  impact  of COVID-19 on live performances and touring. Many artists and musicians  have had to rely solely on recorded music  revenues, making it vital for the   industry to explore new  revenue streams and  adapt to the changing  landscape.
+
+Overall, the report's findings highlight the UK's continued love for music and its  significant  contribution to the global music industry. As the world's biggest music buyer, the  UK's appetite for music  remains strong, bringing hope to artists, musicians, and the  wider",whitespace,news,no,chatgpt
+64," The narrator, presented as the author himself, is dismayed by literary critics saying that he has never written a moral tale. The narrator then begins telling the story of his friend Toby Dammit. Dammit is described as a man of many vices, presumably at least in part due to his left-handed mother flogging him with her left hand, considered improper. Dammit often made rhetorical bets, becoming fond of the expression ""I'll bet the devil my head."" Though the narrator tries to break Dammit of bad habits, he fails. Nevertheless, the two remain friends. While traveling one day, they come across a covered bridge. It is gloomy and dark, lacking windows. Dammit, however, is unaffected by its gloom and is in an unusually good mood. As they cross the bridge, they are stopped by a turnstile partway across. Dammit bets the devil his head that he can leap over it. Before the narrator can reply, a cough alerts them to the presence of a little old man. The old man is interested in seeing if Dammit is capable of making such a leap and offers him a good running start. The narrator thinks to himself that it is improper for an old man to push Dammit into making the attempt—""I don't care who the devil he is,"" he adds. The narrator watches as Dammit makes a perfect jump, though directly above the turnstile he falls backwards. The old man quickly grabs something and limps away. The narrator, upon checking on his friend, sees that Dammit's head is gone (""what might be termed a serious injury""). He realizes that just above the turnstile, lying horizontally, was a sharp iron bar that happened to be lying at just the spot where his friend's neck hit when he jumped. The narrator sends for the ""homeopathists"", who ""did not give him little enough physic, and what little they did give him he hesitated to take. So in the end he grew worse, and at length died"". After the bill for his funeral expenses is left unpaid, the narrator has Dammit's body dug up and sold for dog meat.",number,books,,human
+65,"Former ambassador to Japan and scion of one of America's most prominent political families, Caroline Kennedy, has embarked on her campaign trail. The only surviving child of President John F. Kennedy and First Lady Jacqueline Onassis, she announced her candidacy for the Senate in New York, where she has lived for several years. On a statewide tour that starts this week, Kennedy is holding campaign rallies, meeting voters, and voicing her vision for the future. It is a sign that her campaign will begin to take on a more active character, aimed at gaining support for the upcoming election. A seasoned diplomat, Kennedy is likely to emphasize foreign policy, health care, and climate change, among other issues. She has long championed the rights of women and pressed for tougher gun control laws. Her campaign has announced the itinerary for her campaign tour, which includes stops in major cities such as New York City, Buffalo, and Albany. She will also be visiting smaller towns and rural areas, in an apparent effort to reach a wide range of voters. She is no doubt relying on her famous family name to gain support. But she has insisted that she is not relying on her name, but on her background and experience. She has served as the United States ambassador to Japan, but now has her sights on the Senate seat. She was a senior adviser to President Barack Obama and served from 2013 to 2017. Since then, she has been active in a number of non-profits and philanthropic organizations that focus on education, cultural preservation, and research. A former reluctance to enter electoral politics, she now says she has “a strong belief in the power of public service and the strength of our democracy.” The Senate, she says, is where she can be most effective. In a rally that kicked off the campaign in New York City, she promised a new spirit of public service in the Senate. As she prepares to usher in a new era of Kennedy politics, it remains to be seen how this latest chapter in the family's history will unfold.",paraphrase,news,no,gpt4
+66,"Srі Lаnkа's рrеsіdеnt hаs lаunсhеd а rесоnstruсtіоn drіvе wоrth $3.5bn (£1.8bn) bу арреаlіng fоr реасе аnd nаtіоnаl unіtу.
+Ρrеsіdеnt Кumаrаtungа sаіd іt wаs nоw іmроrtаnt tо fіnd а реасеful sоlutіоn tо уеаrs оf іntеrnаl соnflісt. Меаnwhіlе, thе Іntеrnаtіоnаl Моnеtаrу Fund (ΙΜF) sаіd dаmаgе frоm thе tsunаmі wоuld сut оnе реrсеntаgе роіnt frоm Srі Lаnkа's есоnоmіс grоwth thіs уеаr. Ιt еstіmаtеd thе wаvе lеft рhуsісаl dаmаgе еquаl tо 6.5% оf thе есоnоmу.
+Sераrаtеlу, thе Іntеrnаtіоnаl Lаbоur Оrgаnіsаtіоn (ΙLО) sаіd thаt аt lеаst оnе mіllіоn реорlе hаvе lоst thеіr lіvеlіhооds іn Srі Lаnkа аnd Іndоnеsіа аlоnе. Іt саllеd fоr асtіоn tо сrеаtе jоbs. Ρrеsіdеnt Кumаrаtungа аttеndеd а сеrеmоnу іn thе sоuthеrn tоwn оf Наmbаntоtа. Shе wаs jоіnеd bу gоvеrnmеnt аnd орроsіtіоn роlіtісіаns, tоgеthеr wіth Вuddhіst, Ніndu, Μuslіm аnd Сhrіstіаn сlеrgу.
+Ρrіmе Μіnіstеr Маhіndа Rаjараksе lаіd thе fоundаtіоn stоnе оn а nеw hоusіng рrоjесt іntеndеd tо рrоvіdе 6,000 hоmеs fоr survіvоrs оf thе tsunаmі. Мrs Κumаrаtungа саllеd fоr thе trаgеdу tо bе ""thе stаrt оf а nеw bеgіnnіng tо rеbuіld оur nаtіоn"". ""Wе аrе а соuntrу blеssеd wіth sо mаnу nаturаl rеsоurсеs аnd wе hаvе nоt mаdе usе оf thеm fullу. Іnstеаd wе hаvе bееn squаbblіng, fіghtіng,"" shе аddеd. Νоrwау's реасе nеgоtіаtоr Еrіk Sоlhеіm іs duе tо аrrіvе оn Wеdnеsdау tо trу tо rеvіvе реасе tаlks іn thе dесаdеs-lоng соnflісt bеtwееn gоvеrnmеnt fоrсеs аnd thе Τаmіl Тіgеrs, whо wаnt а sераrаtе stаtе іn thе nоrth еаst оf thе соuntrу. Rесоnstruсtіоn еffоrts іn еаstеrn Srі Lаnkа hаvе bееn hаmреrеd bу tеnsіоns bеtwееn thе twо sіdеs.
+Τhе ΙМF sаіd thаt thе Srі Lаnkаn аuthоrіtіеs' іnіtіаl еstіmаtеs hаvе рut thе рhуsісаl dаmаgе аt $1.3 tо $1.5bn, but аddеd thаt thе іmрlісаtіоns fоr thе есоnоmу wеrе muсh wіdеr thаn thіs. ""Τhе brоаdеr mасrоесоnоmіс іmрасt wіll сlеаrlу bе substаntіаl but thе dеtаіls аrе dіffісult tо аssеss аt thіs еаrlу stаgе,"" thе ІΜF sаіd. Grоwth, іnflаtіоn, thе bаlаnсе оf рауmеnts аnd fоrеіgn ехсhаngе rеsеrvеs аrе аll ехресtеd tо shоw thе еffесts оf lоst busіnеssеs аnd rесоnstruсtіоn соsts. ""Тhе fіshіng іndustrу hаs bееn dеvаstаtеd, аgrісulturаl рrоduсtіоn mау bе аffесtеd аnd tоurіsm wіll suffеr, еsресіаllу іn thе shоrt tеrm,"" thе rероrt sаіd. Тhе ΙLΟ еstіmаtеd thаt 400,000 Srі Lаnkаns hаvе lоst thеіr jоbs, mоstlу іn thеsе thrее іndustrіеs. Еаrnіngs frоm tоurіsm thіs уеаr аrе ехресtеd tо bе 15% lоwеr thаn lаst уеаr. Εсоnоmіс grоwth thіs уеаr іs ехресtеd tо bе 4%, whісh іs аbоut 1% lеss thаn рrеvіоuslу fоrесаst. Ιnflаtіоn соuld сlіmb tо 14% соmраrеd tо а рrеvіоus еstіmаtе оf 12%. Αlthоugh mаjоr ехроrts hаvе nоt suffеrеd, thе ІΜF ехресts thе rесоnstruсtіоn еffоrt wіll rеquіrе hіghеr іmроrts whісh соuld dаmаgе thе bаlаnсе оf рауmеnts. Fоrеіgn ехсhаngе rеsеrvеs mау bесоmе strаіnеd аs ""Srі Lаnkа wіll bе hаrd рrеssеd tо kеер іntеrnаtіоnаl rеsеrvеs аt thе рrе-tsunаmі lеvеl"" whісh tоtаllеd mоrе thаn twо mоnths wоrth оf іmроrts. Lаst wееk, thе ΙΜF аррrоvеd Srі Lаnkа's rеquеst fоr а frееzе оn lоаn rерауmеnts.",homoglyph,news,,human
+67,"> Pnin, by Vladimir Nabokov (1957), is autobiographical novel about Timofey Pnin, a Russian émigré professor at Waindell College in New England who has been teaching there since 1930 and whose life is one long series of mishaps. He is described as being short, stout, balding, with large nose and small eyes; he wears thick glasses and speaks English with a heavy accent. His wife died some years before story begins, leaving him to raise their daughter, Nina, alone. In his youth, Pnin was a promising poet but now writes only academic articles on obscure subjects such as the poetry of Alexander Blok. He also plays the piano well enough to be invited to perform at parties, although he prefers not to do so because it makes him nervous.
+>
+> At beginning of book, Pnin's car breaks down while driving through Vermont. A local mechanic fixes it, but when Pnin tries to drive away, he gets stuck in muddy ground. While waiting for help, he meets a young woman named Liza, whom he had met briefly several months earlier. She invites him back to her house where she lives with her mother and brother. Her father, famous composer, left them many years ago after having affair with another woman. When they were younger, Liza and her brother used to play games that involved pretending to be different people, including their father. They have continued this game into adulthood, even though they are no longer children.
+>
+> After spending time with Liza and her family, Pnin returns home feeling refreshed and optimistic about life again. However, things soon take turn for the worse when he learns that his daughter Nina has eloped with a man named Sergei Kozlovsky without telling anyone first. This news shocks everyone at Waindell College, especially Professor Vanderbank who had hoped to marry Nina himself someday. Meanwhile, Pnin receives word that his old friend Nikolai Gryshkin has died suddenly in Russia. Although he never knew exactly what happened to Gryshkin during World War II, Pnin suspects that he may",article_deletion,books,yes,mistral
+68,"BT is starting its push into television with plans to offer TV over broadband.
+As a telecoms company, BT is moving to a content distribution strategy, Andrew Burke, chief of BT's new Entertainment unit told the IPTV World Forum. ""We want to be an entertainment facilitator,"" he said on the opening day of the London conference. The BBC is also trialling a service to play programmes over the net and has not ruled out offering it to non-licence fee payers overseas. The corporation's Interactive Media Player (iMP) is its first foray into broadband TV - known as IPTV (Internet Protocol TV).
+""We see several opportunities for delivering the type of content that normally broadcasters find it difficult to get to viewers,"" said BT's Andrew Burke.
+With more people on broadband, and connection speeds increasing, telcos around the world are looking for new ways to make money from it. Increased competition between net service providers, encouraged by Ofcom, has eroded BT's position in the market. It is looking for a good return on its investment in the technology which has made broadband over ADSL a reality. It also sees delivering TV over broadband as a way of getting high-definition (HD) content to people sooner than they will be able to get it through conventional, regular broadcasts. The BBC's iMP has just finished successful technical trials and is set for much larger consumer trials later in 2005. Before it officially launches, the BBC must show the government how it offers value for money. Delivering programmes over broadband offers clear public value, says the BBC, because it gives people more control, and more choice.
+IPTV is a similar idea to VoIP services, like Skype. Both use broadband net connections to carry information, like video and voice, in packets of data instead of conventional means. Since it uses internet technology, IPTV could mean more choice of programmes, more, more interactivity, tailored programming, and more localised content outside of conventional satellite, digital cable, and terrestrial broadcasts.
+It is all part of the larger changing TV technology landscape and, like personal digital video recorders (PVRs), gives people much more control over TV. Broadcasters see IPTV and PVRs as both as a threat and an opportunity. The BBC recognises that TV over broadband is a reality and aims to innovate with it, said Rahul Chakkara, controller of BBCi's 24/7 interactive TV services. The iMP is based on peer-to-peer technology, and lets people download programmes the BBC owns the rights to for up to seven days after broadcast. ""IPTV enables us to take back that programme to our audience at different times,"" said Mr Chakkara.
+""So we can tell our audience that that programme they paid for [via the licence fee], they can access it any time they want."" It helps, said Mr Burke, that people are more au fait with terms like ""digital"", ""interactive"", now that digital TV reaches more than 56% of UK homes. According to Benoit Joly from broadband telecoms firm Thales, 30% of Europe cannot get satellite TV or digital TV. They could get IPTV though. Analysts say that IPTV will account for 10% of the digital TV market in Europe alone by the end of the decade. What needs to happen now, agree analysts, is for connection speeds to be bumped up to handle the service; 20Mbps connections would be ideal. BT does not see itself as a broadcaster of IPTV services, rather as an ""enabler"", said Mr Burke. Its strategy is a ""hybrid"" approach, he explained, where over-the-air conventional broadcasts are supplemented with content over broadband.
+Initially appealing to niche markets, like sports fans, it will widen out. But IPTV could be used for home-monitoring, ""pet cams"", localised news services, and local authority TV, too says BT. It even suggests that it could target those households in the UK that do not own a computer, 40% of the country.
+Broadband to them would not be about data and the net - that could come later for them - but about cheap phone calls and more choice of TV programmes. Home Choice already offers 10,000 hours of shows and channels, delivered over broadband to homes in London. With a broadband net subscription, you can also get your TV and phone service. Through content deals and partnerships, it offers satellite as well as terrestrial channels, and bespoke channels based on what viewers pick and choose from its catalogues. It aims to expand nationally, but is seeing a lot of success with what it offers its 15,000 subscribers now, and aims to double uptake as well as reach by the summer. Although still at a very early stage, IPTV is another application for broadband that underlines its growing prominence as a backbone network - another utility like electricity.",none,news,,human
+69,Ι'm lооkіng fоr rесоmmеndаtіоns fоr а lосаl рlасе tо gеt а hаіrсut. І'vе rесеntlу mоvеd tо thе аrеа аnd Ι'm nоt fаmіlіаr wіth аnу оf thе sаlоns оr bаrbеrshорs аrоund hеrе. І'm hоріng tо fіnd а рlасе thаt оffеrs quаlіtу сuts аt а rеаsоnаblе рrісе. Аnу suggеstіоns wоuld bе grеаtlу аррrесіаtеd!,homoglyph,reddit,no,chatgpt
+70,"Ice age 3 was really funny and it stays true to the series. Same old characters, a whole new adventure that everyone at any age can enjoy.<br/><br/>I saw the critics and I thought to my self that it would be good, but I didn't expect much, but I really did enjoy it more than I thought. It may not be the best compared to the other Ice Age films, but it still a great thrill ride that the audience can enjoy.<br/><br/>And if you find a theater near you that has it in digital 3D, go and watch it in 4D, because the action and adventure will excite you even more than it actually does.<br/><br/>Normally people think since it's a third part, then the movie won't be that great, but hear me when I say that keep that thought out of your mind and parents, take your kids with you, they are sure to leave with a smile and a long lasting excitement for more.<br/><br/>383% enjoyable, its a 10!",number,reviews,,human
+71,"F​i​l​l​i​n​g​
+​1​ ​c​u​p​ ​p​e​c​a​n​s​
+​1​ ​c​u​p​ ​d​r​i​e​d​ ​f​i​g​
+​2​ ​-​3​ ​t​a​b​l​e​s​p​o​o​n​s​ ​m​a​p​l​e​ ​s​y​r​u​p​ ​(​e​g​.​ ​h​o​n​e​y​)​ ​o​r​ ​2​ ​-​3​ ​t​a​b​l​e​s​p​o​o​n​s​ ​o​t​h​e​r​ ​l​i​q​u​i​d​ ​s​w​e​e​t​e​n​e​r​ ​(​e​g​.​ ​h​o​n​e​y​)​
+​C​h​o​c​o​l​a​t​e​ ​C​o​a​t​i​n​g​
+​3​/​4​ ​c​u​p​ ​s​e​m​i​-​s​w​e​e​t​ ​c​h​o​c​o​l​a​t​e​ ​c​h​i​p​s​
+​1​ ​t​a​b​l​e​s​p​o​o​n​ ​c​o​c​o​n​u​t​ ​b​u​t​t​e​r​ ​o​r​ ​1​ ​t​a​b​l​e​s​p​o​o​n​ ​b​u​t​t​e​r​
+​1​/​4​ ​t​e​a​s​p​o​o​n​ ​p​r​e​f​e​r​r​e​d​ ​e​x​t​r​a​c​t​ ​(​o​p​t​i​o​n​a​l​)​
+​E​i​t​h​e​r​ ​i​n​ ​a​ ​d​o​u​b​l​e​ ​b​o​i​l​e​r​ ​o​r​ ​a​ ​s​m​a​l​l​ ​f​o​n​d​u​e​ ​p​o​t​,​ ​a​d​d​ ​t​h​e​ ​i​n​g​r​e​d​i​e​n​t​s​ ​f​o​r​ ​t​h​e​ ​c​h​o​c​o​l​a​t​e​ ​c​o​a​t​i​n​g​.​ ​(​I​f​ ​u​s​i​n​g​ ​a​ ​s​t​a​i​n​l​e​s​s​ ​s​t​e​e​l​ ​b​o​w​l​ ​o​v​e​r​ ​p​o​t​,​ ​d​o​n​'​t​ ​l​e​t​ ​t​h​e​ ​b​o​w​l​ ​t​o​u​c​h​ ​t​h​e​ ​b​o​i​l​i​n​g​ ​w​a​t​e​r​ ​o​t​h​e​r​w​i​s​e​ ​t​h​e​ ​c​h​o​c​o​l​a​t​e​ ​w​i​l​l​ ​b​u​r​n​!​ ​M​e​l​t​ ​o​v​e​r​ ​l​o​w​ ​s​i​m​m​e​r​i​n​g​ ​h​e​a​t​,​ ​s​t​i​r​r​i​n​g​,​ ​u​n​t​i​l​ ​c​o​m​p​l​e​t​e​l​y​ ​m​e​l​t​e​d​)​.​ ​P​l​a​c​e​ ​t​h​e​ ​n​u​t​s​ ​i​n​ ​f​o​o​d​ ​p​r​o​c​e​s​s​o​r​ ​f​i​t​t​e​d​ ​w​i​t​h​ ​t​h​e​ ​""​s​""​ ​b​l​a​d​e​.​ ​P​r​o​c​e​s​s​ ​u​n​t​i​l​ ​n​u​t​s​ ​a​r​e​ ​c​r​u​m​b​l​y​.​ ​A​d​d​ ​t​h​e​ ​f​i​g​s​ ​a​n​d​ ​m​a​p​l​e​ ​s​y​r​u​p​.​ ​P​r​o​c​e​s​s​ ​u​n​t​i​l​ ​a​ ​s​e​m​i​-​s​m​o​o​t​h​ ​p​a​s​t​e​ ​f​o​r​m​s​.​ ​Y​o​u​ ​w​i​l​l​ ​n​e​e​d​ ​t​o​ ​s​t​o​p​ ​t​h​e​ ​f​o​o​d​ ​p​r​o​c​e​s​s​o​r​ ​o​c​c​a​s​i​o​n​a​l​l​y​ ​a​n​d​ ​s​c​r​a​p​e​ ​d​o​w​n​ ​t​h​e​ ​s​i​d​e​s​ ​t​h​e​n​ ​p​r​o​c​e​s​s​ ​a​g​a​i​n​.​ ​R​o​l​l​ ​f​i​l​l​i​n​g​ ​i​n​t​o​ ​1​-​i​n​c​h​ ​b​a​l​l​s​ ​(​o​r​ ​t​o​ ​t​h​e​ ​s​i​z​e​ ​d​e​s​i​r​e​d​)​ ​a​n​d​ ​s​e​t​ ​o​n​t​o​ ​a​ ​p​l​a​t​e​.​ ​P​r​e​p​a​r​e​ ​a​ ​l​a​r​g​e​ ​p​l​a​t​e​ ​(​o​r​ ​b​a​k​i​n​g​ ​s​h​e​e​t​)​ ​f​o​r​ ​y​o​u​r​ ​f​i​n​i​s​h​e​d​ ​t​r​u​f​f​l​e​s​ ​b​y​ ​c​o​v​e​r​i​n​g​ ​i​t​ ​w​i​t​h​ ​a​ ​p​i​e​c​e​ ​o​f​ ​p​a​r​c​h​m​e​n​t​ ​p​a​p​e​r​.​ ​S​e​t​ ​a​s​i​d​e​.​ ​T​u​r​n​ ​o​f​f​ ​h​e​a​t​ ​a​n​d​ ​i​m​m​e​d​i​a​t​e​l​y​ ​d​r​o​p​ ​t​h​e​ ​f​i​r​s​t​ ​t​r​u​f​f​l​e​ ​i​n​t​o​ ​t​h​e​ ​m​e​l​t​e​d​ ​c​h​o​c​o​l​a​t​e​,​ ​g​e​n​t​l​y​ ​s​w​i​r​l​ ​t​h​e​ ​m​e​l​t​e​d​ ​c​h​o​c​o​l​a​t​e​ ​o​v​e​r​ ​i​t​ ​u​s​i​n​g​ ​a​ ​s​p​o​o​n​.​ ​L​i​f​t​ ​u​p​ ​a​n​d​ ​p​l​a​c​e​ ​o​n​t​o​ ​t​h​e​ ​p​r​e​p​a​r​e​d​ ​p​l​a​t​e​ ​w​i​t​h​ ​p​a​r​c​h​m​e​n​t​ ​p​a​p​e​r​.​ ​R​e​p​e​a​t​ ​w​i​t​h​ ​r​e​m​a​i​n​i​n​g​ ​t​r​u​f​f​l​e​s​.​ ​O​n​c​e​ ​y​o​u​ ​a​r​e​ ​f​i​n​i​s​h​e​d​,​ ​p​l​a​c​e​ ​t​h​e​ ​p​l​a​t​e​(​o​r​ ​b​a​k​i​n​g​ ​s​h​e​e​t​)​ ​w​i​t​h​ ​t​h​e​ ​t​r​u​f​f​l​e​s​ ​o​n​ ​i​t​ ​i​n​t​o​ ​t​h​e​ ​f​r​e​e​z​e​r​ ​f​o​r​ ​a​b​o​u​t​ ​1​0​ ​m​i​n​u​t​e​s​(​o​p​t​i​o​n​a​l​)​ ​t​o​ ​h​a​r​d​e​n​ ​t​h​e​ ​c​o​a​t​i​n​g​ ​q​u​i​c​k​l​y​.​ ​O​n​c​e​ ​s​e​t​,​ ​p​l​a​c​e​ ​t​r​u​f​f​l​e​s​ ​i​n​ ​a​ ​c​o​n​t​a​i​n​e​r​ ​a​n​d​ ​s​t​o​r​e​ ​i​n​ ​y​o​u​r​ ​f​r​i​d​g​e​.​ ​E​N​J​O​Y​!​",zero_width_space,recipes,,human
+72,"Ingredients:
+- 1 cup all-purpose flour
+- 2 tablespoons unsweetened cocoa powder
+- 1 teaspoon baking soda
+- 1/4 teaspoon salt
+- 3 large eggs, room temperature
+- 1 cup granulated sugar
+- 1/2 cup vegetable oil
+- 1/2 cup buttermilk
+- 1 teaspoon vanilla extract
+- 1/2 cup boiling water
+- 1/2 cup espresso
+- 1 teaspoon ground cardamom
+- Chocolate truffles, for serving
+
+Instructions:
+
+1. Preheat the oven to 350°F (180°C). Grease an 8-inch round cake pan and line it with parchment paper.
+2. In a medium bowl, whisk together the flour, cocoa powder, baking soda, and salt. Set aside.
+3. In a separate large bowl, beat the eggs and sugar until light and fluffy, about 2 minutes. Add the oil, buttermilk, and vanilla extract and mix well.
+4. Gradually add the dry ingredients to the wet mixture, alternating with the hot water and espresso. Mix until just combined. Fold in the ground cardamom.
+5. Pour the batter into the prepared cake pan and smooth out the top. Bake for 25-30 minutes or until a toothpick inserted into the centre comes out clean.
+6. Let the cake cool completely in the pan on a wire rack. Once cooled, remove the cake from the pan and slice it into wedges. Serve each slice with a chocolate truffle on top. Enjoy!",alternative_spelling,recipes,yes,mistral-chat
+73,"  The  story itself   is  loosely based around Billy, a young boy who has always dreamed of owning a  sweet shop, especially since there is  an abandoned  one named The Grubber  (an old  [[English  word for sweet shop) near where he lives. One day,  he finds that the   old  building has been renovated and has become the  head office for the Ladderless Window-Cleaning Company. Billy then  meets its workers, a Giraffe with an extendable  neck, a Pelican (or ""Pelly"" as he is called by the others) who can retract his  upper beak, and  a  Monkey, whom he then  befriends. They all  band  together when they receive a letter from  the Duke of  Hampshire  asking them to clean the windows of Hampshire House. When  they get there, things go smoothly until  the Giraffe  and the  Monkey, while cleaning the windows   of the  Duchess's bedroom, spot a burglar who attempts to steal the Duchess's diamond jewellery. The Pelican then flies in  and catches the burglar in  his beak, holding him  there while the others panic. Eventually, the police arrive  to arrest the burglar, whom the Chief of Police  identifies as ""The Cobra"",  one of the world's most dangerous cat burglars.  As a reward for  retrieving the Duchess's   diamonds, the Duke invites the L.W.C.C. to live on his  estate as his personal helper. Billy's dreams come true because the  Giraffe, Pelican and Monkey  will no longer  be needing the Grubber building; with a little help from the Duke, the Grubber is reopened into the  most  fantastic sweet shop in the whole town  (even selling  sweets from the Willy Wonka company). And they  live happily ever  after.",whitespace,books,,human
+74,"Quantifying uncertainty in medical image segmentation applications is
+essential, as  it is  often connected to vital  decision-making. Compelling
+attempts have been  made in quantifying the uncertainty in  image segmentation
+architectures, e.g. to learn a density  segmentation  model conditioned on the
+input image.   Typical work in this field restricts these learnt  densities to be
+strictly Gaussian. In this paper, we propose to use a more flexible approach by
+introducing Normalizing Flows (NFs), which  enables the  learnt densities   to be
+more complex and facilitate more accurate modeling for uncertainty. We prove
+this hypothesis  by  adopting  the Probabilistic U-Net and augmenting  the
+posterior  density  with an NF, allowing it to be more expressive. Our
+qualitative as well as quantitative (GED and IoU) evaluations on the
+multi-annotated and  single-annotated LIDC-IDRI and Kvasir-SEG segmentation
+datasets, respectively, show a  clear improvement. This is mostly apparent in
+the  quantification  of aleatoric  uncertainty and the increased predictive
+performance  of up to 14 percent. This  result strongly  indicates that  a more
+flexible density model should  be seriously   considered in architectures that
+attempt to capture segmentation ambiguity through density  modeling. The benefit
+of this improved modeling will  increase human  confidence in annotation and
+segmentation, and enable eager adoption  of the  technology in practice.",whitespace,abstracts,,human
+75,"1       Since I noo mwore do zee your fe{'a}ce,
+Up ste{'a}rs or down below,
+I'll zit me in the lwonesome ple{'a}ce,
+Where flat-bough'd beech do grow;
+Below the beeches' bough, my love,
+Where you did never come,
+An' I don't look to meet ye now,
+As I do look at hwome. Since you noo mwore be at my zide,
+In walks in zummer het,
+I'll goo alwone where mist do ride,
+Drough trees a-drippèn wet;
+Below the ra{'i}n-wet bough, my love,
+Where you did never come,
+An' I don't grieve to miss ye now,
+As I do grieve at hwome. 
+
+Since now bezide my dinner-bwoard
+Your va{'i}ce do never sound,
+I'll eat the bit I can avword,
+A-vield upon the ground;
+Below the darksome bough, my love,
+Where you did never dine,
+An' I don't grieve to miss ye now,
+As I at hwome do pine. Since I do miss your va{'i}ce an' fe{'a}ce
+In pra{'y}er at eventide,
+I'll pray wi' woone sad va{'i}ce vor gre{'a}ce
+To goo where you do bide;
+Above the tree an' bough, my love,
+Where you be gone avore,
+An' be a-w{'a}itèn vor me now,
+To come vor evermwore.",insert_paragraphs,poetry,,human
+76,"
+
+A couple of months ago, I bought a Aqara app-enabled wall switch. I originally bought it to be able to control my Philips Hue lights without needing the Hue bridge, but I quickly found that the Aqara switch was much better at controlling the lights than the Hue app. The Aqara switch is much more responsive, and it can even dim the lights, which the Hue app can't do.
+
+However, recently the Aqara switch has become a bit of a zombie accessory. It doesn't respond to anything I do in the Aqara app, and the only way I can control it is by using the physical switch. I've tried uninstalling and reinstalling the Aqara app, and I've tried resetting the switch, but nothing has worked.
+
+Has anyone else had this problem? Is there any way to fix it?",perplexity_misspelling,reddit,no,gpt3
+77,"4 оunсеs rісе nооdlеs, sее nоtе
+1 lаrgе rіре tоmаtоеs, mоrе (орtіоnаl)
+1 lаrgе zuссhіnі, nоt fооtbаll sіzе
+1 gаrlіс сlоvе, сhорреd fіnе, tо tаstе, sее nоtеs оn sеаsоnіngs
+14 tеаsрооn grоund sаvоrу, tо tаstе
+14 tеаsрооn bаsіl, tо tаstе
+1 tеаsрооn Вrаggs lіquіd аmіnоs, tо tаstе
+Lаwrу's Sеаsоnеd Sаlt, lіght sрrіnklе
+рерреr, multі mіх, frеsh grоund
+sеа sаlt (орtіоnаl)
+Рrераrе thе nооdlеs ассоrdіng tо расkаgе dіrесtіоns. Сhор thе tоmаtо оr tоmаtоеs аs уоu dеsіrе. Μіnе wеrе аррrох hаlf іnсh. Slісе thе zuссhіnі, thіn іntо hаlf mооn shареs. Whеn І sау thіn, Ι mеаn thіn. Τhісkеr ехtеnds сооkіng tіmеs. Ρlасе thе zuссhіnі аnd thе gаrlіс іn а wеll sеаsоnеd саst іrоn skіllеt оr а vеrу wеll раmmеd skіllеt. Sаutе thеm untіl thе zuссhіnі іs dоnе. Yоu must kеер stіrrіng tо рrеvеnt burnіng. Whеn thе zuссhіnі іs rеаdу аdd thе tоmаtо thеn sаvоrу, bаsіl аnd рерреr. Stіr аddіng thе Βrаggs. Аs іt сооks аdd thе Lаwrу's, lіghtlу. Κеер stіrrіng. Αdd thе nооdlеs. Whеn уоu hаvе а frаgrаnt mіх, іt іs dоnе. Νоtеs:. Тhе Νооdlеs usеd wеrе Rісе Stісk. Тhіs іs nоt а dіsh уоu саn wаlk аwау frоm. Таstе аnd аdjust sеаsоnіngs. Тhіs іs vіtаl. Dо nоt just dumр іn thе tеаsрооns Аdd а lіttlе thеn аdjust uрwаrd tо уоur tаstе. Μіnе hарреnеd tо bе аbоut whаt уоu sее. Ноwеvеr thе sеаsоnіng flаvоrs wоrkеd hеаvеnlу tоgеthеr. Τо mееt уоur tаstе, уоu wіll tаstе а bіt еасh stер оf thе wау аnd аdjust іnstеаd оf аt thе еnd. Тhеrе саn bе lеss оr mоrе gаrlіс аddеd іf уоu lіkе. Wе аrе gаrlіс fаns. Τhе оrіgіnаl wаs fоr а vеrsіоn wіth Sоbа Νооdlеs frоm Βеtwееn Неаvеn аnd Εаrth.",homoglyph,recipes,,human
+78,So I'm trying to do research and get help from the office of personnel management on my federal retirement benefits I'm kind of at a loss still as to how that's factored. I've got 9 years of federal civilian service with the Army Corps of Engineers I'm 38. In Massachusetts been married for 53 years. From what I understand the TSP and FERS Programs are not handled like a typical retirement plan in a divorce. My attorney doesn't have much info for me That's kind of leaving me at a loss. From what I understand unless the judge puts it in writing directing the office of personnel management to pay out I won't be held liable if the divorce decree just mentioned something about my pension like it's a regular civilian workforce 543k. Because the OPM for the federal government supersedes the state law for a divorce. I still want to make sure I have the right facts and figures though calculating my fund for reporting.,number,reddit,,human
+79," In this much-anticipated prequel to Crown Duel, Vidanric Renselaeus, fifteen-year-old Marquis of Shevraeth, finds himself sent across the continent to a military academy in Marloven Hess, a kingdom known for its violent history. Vidanric is used to civilized life in pleasant Remalna—except that the evidence is increasingly clear that the civilization is only on the surface. Too many young, smart heirs have suffered accidents of late, and the evidence is beginning to point to the king, Galdran, who has grandiose plans for expansion. In Marloven Hess, no one can pronounce his real names, and they assume his title is his name. He becomes Shevraeth—discovering that there are no marquises or dukes or barons in this kingdom, and no one has the slightest interest in Remalna. Or in foreigners. Until very recently, the academy was closed to outsiders. But the king—also fifteen, and recently come to his throne after a nasty civil war—wants him there. Learning about command turns out to be very different than Shevraeth had assumed, and the Marlovens, who are going through political and social change at all levels, are not at all what he expected. He makes friends as well as enemies; experiences terror and laughter as well as challenges on the field and off. He discovers friendship, loyalty—and love. All the while greater events in the world are moving inexorably toward conflagration, drawing the smartest of the young people into key positions—whether they want it or not. They're going to have to be ready.",none,books,,human
+80,I’ve been Hodl’ing via DCA for for a bit and never sold any Bitcoin. My mom has had to move out of her home and into a managed care facility. She is quite old and has Dementia so she needs a lot of care and the facility cost about double what she brings in monthly from Social Security and a teacher’s pension. In a Few months her savings will be exhausted. Luckily she Owns her home and the proceeds from a sale Will be Enough to live off of for a couple of years. I’m a bit concerned Because while her mind is gone Her body is in good shape. If she lives more than 4-5 years she will be broke. My thought is to use part of the sale proceeds to pay for a year of care. Put the Second year in a savings account and put the rest in Bitcoin and then reverse DCA for year three. Thoughts?,upper_lower,reddit,,human
+81,"Keannekeuk, or the Prophet, born about 1790, lived for many years on the Vermilion River, where the Kickapoos lived, and was one of the great spiritual leaders of his people. His name means “The Son of the Drunkard.” When he was a young man he killed his uncle in a drunken rage, and was a pariah. He wandered from place to place on the borders of Indiana and Illinois, begging his bread, until a priest took him into his house and taught him Christianity. Then Keannekeuk renounced liquor and began to preach, that his fellow-countrymen might follow his example. His people received him kindly, and in 1816, when he was about twenty-six years old, he had become the head chief of the Vermilion band. He soon established an abstinence from liquor among his followers, and his followers became more united and more self-reliant. From 1833 to 1852 he led a religious community, the doctrines of which were non-violence, resistance to emancipation, abstinence from liquor, and meditation. He advocated the settlement of the Indians in the country they occupied, and a sedentary and agricultural life. In this way he drew the ire of the other bands of the Kickapoos. In his religious teachings there was a trace of Christian evangelism, and in time a band of Potawatomis joined his followers. He died on the Kansas reservation in 1852.",paraphrase,wiki,,human
+82,"The Nernst theorem is a fundamental result in statistical mechanics that relates the free energy of a system to its thermodynamic properties. In this paper, we investigate the verification of the Nernst theorem for Casimir-Lifshitz free energy. We consider a system of particles in a Casimir-Lifshitz background, where the particles have a non-zero velocity and the background has a non-zero acceleration. We show that the free energy of the system can be expressed in terms of its thermodynamic properties, and we verify that the Nernst theorem holds for this system. Our results provide a new insight into the behavior of systems in Casimir-Lifshitz backgrounds and have important implications for the study of thermodynamics in non-equilibrium systems.",none,abstracts,no,mistral-chat
+83,"Deep Convolutional Neural Networks (DCNNs) have recently shown outstanding
+performance in semantic image segmentation. However, state-of-the-art
+DCNN-based semantic segmentation methods usually suffer from high computational
+complexity due to the use of complex network architectures. This greatly limits
+their applications in the real-world scenarios that require real-time
+processing. In this paper, we propose a real-time high-performance DCNN-based
+method for robust semantic segmentation of urban street scenes, which achieves
+a good trade-off between accuracy and speed. Specifically, a Lightweight
+Baseline Network with Atrous convolution and Attention (LBN-AA) is firstly used
+as our baseline network to efficiently obtain dense feature maps. Then, the
+Distinctive Atrous Spatial Pyramid Pooling (DASPP), which exploits the
+different sizes of pooling operations to encode the rich and distinctive
+semantic information, is developed to detect objects at multiple scales.
+Meanwhile, a Spatial detail-Preserving Network (SPN) with shallow convolutional
+layers is designed to generate high-resolution feature maps preserving the
+detailed spatial information. Finally, a simple but practical Feature Fusion
+Network (FFN) is used to effectively combine both shallow and deep features
+from the semantic branch (DASPP) and the spatial branch (SPN), respectively.
+Extensive experimental results show that the proposed method respectively
+achieves the accuracy of 73.6% and 68.0% mean Intersection over Union (mIoU)
+with the inference speed of 51.0 fps and 39.3 fps on the challenging Cityscapes
+and CamVid test datasets (by only using a single NVIDIA TITAN X card). This
+demonstrates that the proposed method offers excellent performance at the
+real-time speed for semantic segmentation of urban street scenes.",alternative_spelling,abstracts,,human
+84,"Ingredients:
+
+For  the Yellow Layer Cake:
+- 2 cups  all-purpose  flour
+- 2 1/2 teaspoons baking powder
+- 1/2  teaspoon salt
+- 1 1/4 cups  unsalted butter, at room temperature
+- 2 cups granulated sugar
+- 4  large eggs
+- 1  teaspoon pure  vanilla extract
+- 1 cup  whole  milk
+
+For the Vanilla Buttercream Frosting:
+- 1 cup unsalted butter, at room temperature
+- 4 cups powdered sugar
+- 2 teaspoons pure vanilla  extract
+- 3-4 tablespoons whole milk or heavy cream
+
+Instructions:
+
+1.  Preheat your oven to  350°F (175°C). Grease and flour two 9-inch round cake pans.
+
+2.  In a medium  bowl,  whisk together the flour, baking powder, and salt.  Set aside.
+
+3.  In a large bowl, beat  the  butter until it is creamy  and  smooth. Add the sugar and continue  to beat until it is   light and fluffy.
+
+4. Beat in the eggs, one at a time,  making sure each egg is  fully  incorporated before adding  the  next.  Stir in the vanilla extract.
+
+5.  Gradually add  the flour mixture to the butter mixture, alternating with the milk, beginning and ending with the flour mixture. Stir until   just combined.
+
+6. Divide the batter evenly between the prepared cake pans. Smooth the tops with  a spatula.
+
+7. Bake for 25-30 minutes, or until a toothpick inserted into the center of the cakes  comes out clean.
+
+8. Allow the cakes to cool in  the pans for 10 minutes,  then remove them  from  the pans and transfer them to a wire rack  to cool completely.
+
+9.  While the cakes are cooling, prepare  the vanilla buttercream frosting. In a large bowl, beat the butter until  it is creamy and smooth. Gradually add  the powdered sugar,  one cup at  a time,  beating well after each addition.
+
+10. Beat in the vanilla extract. Add the milk or cream, one tablespoon  at a time, until the frosting reaches  your  desired consistency.
+
+11. Once  the cakes have cooled completely,  place one layer  on a serving  plate.  Spread a layer  of frosting  on  top. Place the second  layer on top of the frosting, then spread frosting on top of the  second layer   and  around the sides of the cake.
+
+12. Slice and  serve the cake  at  room temperature. Enjoy your  homemade yellow layer cake with vanilla buttercream  frosting!",whitespace,recipes,no,gpt4
+85,"In this historical fiction novel, The Mad King, readers are taken on a journey through the reign of King George III of England during the 18th century. The story begins with his ascension to the throne and follows him throughout his struggles with mental illness, as well as the challenges he faces in governing a rapidly changing country. As the king's health deteriorates, tensions rise within the royal family and among the political classes, ultimately leading to the American Revolution. Through vivid descriptions of court life, intricate character development, and an immersive setting, the author masterfully portrays the tumultuous world of Georgian Britain and the tragic downfall of one of its most iconic rulers.",number,books,yes,mpt-chat
+86,"In a bustling city, a young woman named Lily navigates the challenges of modern life. She's a successful businesswoman, but her personal relationships are a different story. She's recently divorced and struggling to connect with her teenage daughter. When she meets a charming and charismatic man named Maxe, she thinks she's found a solution to her problems.
+
+Maxe is a tech entrepreneur who's made a fortune with his cutting-edge ideas and charm. He's confident, charming, and seems to have it all. But as Lily gets to know him better, she starts to see cracks in his façade. He's reckless, impulsive, and has a dark past that he's kept hidden. Despite her reservations, Lily finds herself drawn to him, and they start a whirlwind romance.
+
+As their relationship deepens, Lily's daughter becomes increasingly suspicious of Maxe. She thinks he's a bad influence on her mother and tries to convince her to break things off. But Lily is torn between her love for her daughter and her desire for happiness. She's also convinced that Maxe is different from other men and that he's truly the one for her.
+
+As the relationship progresses, Lily starts to see the warning signs that her daughter pointed out. Maxe's behaviour becomes increasingly erratic, and he starts to show a darker side. He's controlling, possessive, and has a tendency to lash out when things don't go his way. Lily starts to feel trapped and realises that she may have made a mistake.
+
+Desperate to escape the toxic relationship, Lily turns to her friends and family for help. They rally around her, offering support and encouragement. With their help, she finds the strength to break free from Maxe's grasp and start a new chapter in her life.
+
+In the end, Lily learns that true happiness comes from within and that she doesn't need a man to complete her. She finds a new sense of purpose and fulfilment, and her relationships with her daughter and friends are stronger than ever. She realises that",alternative_spelling,books,no,llama-chat
+87,"SOLRAD (SOLar RADiation) 3 was a solar X-ray satellite, the third in the SOLRAD program. Developed by the  United States Navy's Naval Research Laboratory (USNRL),  it shared satellite space with and  provided cover for the  Navy's GRAB 2 (Galactic Radiation And Background), a secret  electronic surveillance program. The satellite  was launched atop a Thor-Ablestar rocket on 29 June 1961 along with Transit 4A and the  University  of Iowa's Van Allen Belts  Injun 1 satellite. After reaching orbit, SOLRAD 3/GRAB   2 and INJUN 1  separated from Transit 4A but not  from each other. Though this reduced SOLRAD 3's data-transmission ability by half,   the satellite still returned valuable information  regarding the  Sun's normal  levels  of X-ray emissions.  The SOLRAD experiment package  also established  that, during solar flares, the higher the energy  of emitted X-rays,  the  more  disruption  caused on the  Earth's thermosphere (and radio  transmissions therein). The GRAB mission  was also highly successful, returning so much data on  Soviet air defense radar  facilities that  an automated analysis system had to be developed to process it  all.",whitespace,wiki,,human
+88,"I'm a 22 year old male. 
+
+I've been dealing with depression and anxiety for the past year. I've been on and off medication for the past year and a half. 
+
+I've been on and off psychotherapy for the past year and a half. I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. 
+
+I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. 
+
+I've been on and off psychotherapy for the past year and a half. I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. 
+
+I've been on and off psychotherapy for the past year and a half. I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. I've been on and off medication for the past year and a half. 
+
+I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. 
+
+I've been on and off psychotherapy for the past year and a half. I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. 
+
+I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half. I've been on and off medication for the past year and a half. I've been on and off psychotherapy for the past year and a half",insert_paragraphs,reddit,no,gpt2
+89,"This study presents a novel approach to semi-supervised segmentation of retinal layers in optical coherence tomography (OCT) images using uncertainty as an additional guide. Specifically, we propose an unsupervised deep learning framework that builds upon existing supervised methods by introducing elements of uncertainty into the training process and leveraging it to enhance performance on the target task. 
+
+Our results demonstrate significant improvement in accuracy with the inclusion of this new methodology compared to previous approaches. This work has implications for accurately diagnosing retinal diseases and monitoring patient progression.",insert_paragraphs,abstracts,yes,mistral-chat
+90,"The depersonalisation/derealization is increasing. Ive been mentally ill since i was 13, im now 23. The worst its ever been was in 2016/2017, and now its comming back severely. In 2017 i was diagnosed bipolar type 2, but my psychiatrists evaluation was short and he suspected schizophrenic psychosis as well. In other words schizoaffective disorder. I have a lot of trauma and cptsd symptoms. Ive painted since i was 5, and i cant describe with words all of the fantasy and creativity i have stuck inside my head. My paintings went from realism mixed with surrealism and now an increase in surrealism becuase of my dreams. I dont relate to most in my age and it makes me lonely and isolated. Most people dont percieve the world like i do even though i know there are some out there. But i cant find them. As im writting this im experiencing deja vu. I remember writting this before. I can see into the future but no one would beleive me if i told them even though i can even prove it sometimes. I feel like i might not make it past 30 and i feel like this world is more of an illusion than we like to admit, but it doesnt matter. Im just exhausted and i dont know what to do. The healthcare system here sucks.",perplexity_misspelling,reddit,,human
+91,>​ ​I​'​m​ ​t​r​y​i​n​g​ ​t​o​ ​u​n​d​e​r​s​t​a​n​d​ ​t​h​e​ ​m​i​n​i​n​g​ ​d​i​m​e​n​s​i​o​n​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​f​o​r​ ​a​ ​w​h​i​l​e​ ​n​o​w​ ​a​n​d​ ​I​'​m​ ​s​t​i​l​l​ ​n​o​t​ ​s​u​r​e​ ​w​h​a​t​ ​I​'​m​ ​d​o​i​n​g​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​E​n​d​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​O​v​e​r​w​o​r​l​d​.​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​ ​N​e​t​h​e​r​ ​a​n​d​ ​I​'​v​e​ ​b​e​e​n​ ​m​i​n​i​n​g​ ​i​n​ ​t​h​e​,zero_width_space,reddit,no,mpt
+92,"Instructions: One cup of peanut butter. One cup of sugar. One egg. One teaspoon of vanilla. One-half cup of chocolate hazelnut spread. Preheat oven to 350°. In a medium bowl, mix together peanut butter, sugar, egg, and vanilla. Roll the dough into 1-inch balls and place on ungreased cookie sheets. 3. Make a thumbprint in the center of each ball. Fill each indentation with a half teaspoon of chocolate hazelnut spread. Bake in a preheated oven for 10 to 12 minutes. Cool for five minutes on the baking sheet. Remove to wire racks to cool completely. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times. This recipe has been read over 100,000 times.",paraphrase,recipes,no,mistral
+93,"Аnу соmраrіsоns bеtwееn ""Ηоnеу"" аnd ""Glіttеr"" аrе рrоbаblу duе tо bоth mоvіеs hаvіng sсrірt-wоrk bу Каtе Lаnіеr (whо, funnіlу еnоugh, іsn't lіstеd оn thе соmрlеtеd mоvіе)... аnd, оf соursе, tо thеіr hаvіng slіghtlу sіmіlаr рlоts. Εхсерt thаt ""Glіttеr"" іs lіkеlу tо bе mоrе оf а blасk mаrk оn Маrіаh Саrеу's bооk thаn ""Ноnеу"" іs оn Jеssіса Аlbа's.<br/><br/>Тhіs mоvіе аbоut а kіnd-hеаrtеd уоung wоmаn іn Νеw Yоrk whо usеs dаnсіng tо hеlр thе реорlе іn hеr nеіghbоurhооd (thе реорlе thаt shе mееts whеn shе's wаlkіng dоwn thе strееt... sоrrу, соuldn't rеsіst) аnd whо's рluсkеd frоm а nіghtсlub tо bесоmе thе Ρаulа Αbdul оf thе 21st сеnturу - shе еvеn hаs а lіttlе mоlе оn hеr fасе - іs арtlу nаmеd; іt's аs swееt-nаturеd аs іts tіtlе сhаrасtеr аnd hаs lіttlе іf аnу bеnеfіt оn уоur sуstеm, ехсерt tо slір dоwn nісе аnd еаsу аnd lеаvе nоt vеrу muсh bеhіnd. Іt's fіllеd wіth аll thе rеаlіsm уоu'd ехресt frоm thе рrоduсеr оf ""Lеgаllу Βlоndе"" аnd ""Jоsіе аnd thе Рussусаts,"" but іt's nоt quіtе аs muсh fun аs еіthеr. Раrt оf іt іs а реrsоnаl thіng (thе Rоdnеу Jеrkіns-ехесutіvе рrоduсеd musіс thаt реrmеаtеs thе mоvіе іsn't mу thіng, rhуthmіс thоugh іt іs), but thе thіn, оrіgіnаlіtу-сhаllеngеd sсrірtіng аnd sіllу dіаlоguе аrе mоrе оf а рrоblеm; whеn оur bаrtеndеr-bу-nіght/dаnсе-tеасhеr-bу-dау hеrоіnе tеlls а kіd ""Yоur flаvа's hоt"" іt's а lіttlе еmbаrrаssіng, аlthоugh іn fаіrnеss ""Ноnеу""'s strееt tаlk dоеsn't mаkе уоu wіnсе аs muсh аs sоmе оthеr ехаmрlеs оf thіs kіnd оf thіng.<br/><br/>То bе hоnеst, thе mоvіе рrеttу muсh gоеs іn оnе еаr аnd оut thе оthеr; thеrе's nоt а sіnglе trulу drаmаtіс mоmеnt, wіth thе sеtbасks соmіng оn сuе (whеn Lі'l Rоmео's сhаrасtеr gеts аrrеstеd іt, аnd mаnу оthеr mоmеnts іn thе mоvіе, рlауs lіkе а lеss-thаn-brіllіаnt Аftеr Sсhооl Sресіаl) аnd thе сhаrасtеrs аrе rіght оut оf Сlісhеs Сеntrаl, frоm thе аlmоst sаіntlу tіtlе сhаrасtеr tо thе sехuаllу рrеdаtоrу rіvаl dаnсеr. (Аnd nоtе tо thе fіlmmаkеrs: аs аnуоnе whо's еvеr wаtсhеd МΤV, VН-1 еt аl wіll соnfіrm, musіс vіdеоs dоn't сrеdіt thе сhоrеоgrарhеr оn sсrееn... rеgаrdlеss оf whаt thе оnе thаt рlауs nехt tо thе mоvіе's еnd сrеdіts mіght sау.)<br/><br/>
+Вut іt's іmроssіblе tо rеаllу hаtе ""Ноnеу""; thе mоvіе's tоо hаrmlеss аnd gооd-tеmреrеd fоr аnуоnе tо gеt іntо а hіssуfіt оvеr іts drаwbасks, аnd thоugh thе R&В-flаvоurеd саmеоs mеаn а lоt оf реорlе whо sее thіs mоvіе wіll рrоbаblу bе gоіng ""Whо's thіs Тwееt реrsоn?"" Міssу Εllіоtt іs gеnuіnеlу funnу іn hеr vеrу brіеf sсеnеs. Τhе dаnсіng's аlsо gооd, whісh іs оnе оf thе mаіn rеаsоns tо gо аnd sее mоvіеs lіkе thіs; аnd thоugh іt dоеsn't асtuаllу sееm tо hаvе аnуthіng lіkе а nаrrаtіvе drіvе (іt just sееms tо еnd іnstеаd оf сlіmах), thеrе hаvе bееn wоrsе mоvіеs frоm musіс vіdео dіrесtоrs, е.g. аlmоst аnуthіng dіrесtеd bу Russеll Μulсаhу.<br/><br/>Οh уеs, Jеssіса. Shе dоеsn't quіtе sееm lіkе thе strееtwіsе tуре, but shе іsn't suрроsеd tо bе; shе lооks thе раrt аnd соmеs оff rеаsоnаblу wеll, аs wеll аs hаvіng thе еdgе оvеr Jеnnіfеr Βеаls іn ""Flаshdаnсе"" іn thаt shе асtuаllу dоеs mоst оf hеr оwn dаnсіng. Тhіs іsn't rеаllу thе bеst vеhісlе fоr hеr, tо bе hоnеst, but Jеssіса's аn undеnіаblе сhаrmеr оn sсrееn, аnd fаr tоо sеху fоr thіs оr аnуthіng shе's bееn іn (wіth thе аrguаblе ехсерtіоn оf ""Раrаnоіd"") tо bе аn unbеаrаblе ехреrіеnсе. Аll shе hаs tо dо іs іmрrоvе hеr сhоісе оf sсrірts...",homoglyph,reviews,,human
+94,"6​ ​o​u​n​c​e​s​ ​f​u​s​i​l​l​i​
+​2​ ​t​a​b​l​e​s​p​o​o​n​s​ ​o​i​l​
+​1​ ​o​n​i​o​n​,​ ​p​e​e​l​e​d​ ​a​n​d​ ​c​h​o​p​p​e​d​
+​1​ ​l​b​ ​g​r​o​u​n​d​ ​b​e​e​f​
+​4​ ​s​t​i​c​k​s​ ​c​e​l​e​r​y​,​ ​s​l​i​c​e​d​
+​2​ ​t​a​b​l​e​s​p​o​o​n​s​ ​a​l​l​-​p​u​r​p​o​s​e​ ​f​l​o​u​r​
+​1​4​ ​o​u​n​c​e​s​ ​c​h​o​p​p​e​d​ ​t​o​m​a​t​o​e​s​
+​1​ ​b​e​e​f​ ​s​t​o​c​k​ ​c​u​b​e​
+​1​ ​t​e​a​s​p​o​o​n​ ​W​o​r​c​e​s​t​e​r​s​h​i​r​e​ ​s​a​u​c​e​,​ ​m​o​r​e​ ​t​o​ ​t​a​s​t​e​ ​i​f​ ​d​e​s​i​r​e​d​
+​s​a​l​t​ ​&​ ​f​r​e​s​h​l​y​ ​g​r​o​u​n​d​ ​b​l​a​c​k​ ​p​e​p​p​e​r​
+​1​ ​o​u​n​c​e​ ​b​u​t​t​e​r​
+​1​ ​o​u​n​c​e​ ​a​l​l​-​p​u​r​p​o​s​e​ ​f​l​o​u​r​
+​1​ ​1​4​ ​c​u​p​s​ ​m​i​l​k​
+​1​ ​t​e​a​s​p​o​o​n​ ​m​u​s​t​a​r​d​ ​p​o​w​d​e​r​
+​2​ ​o​u​n​c​e​s​ ​s​h​a​r​p​ ​c​h​e​d​d​a​r​ ​c​h​e​e​s​e​,​ ​g​r​a​t​e​d​
+​S​e​t​ ​t​h​e​ ​o​v​e​n​ ​t​o​ ​4​0​0​F​ ​C​o​o​k​ ​t​h​e​ ​p​a​s​t​a​ ​i​n​ ​b​o​i​l​i​n​g​ ​w​a​t​e​r​ ​f​o​r​ ​1​0​-​1​4​ ​m​i​n​s​,​ ​o​r​ ​a​s​ ​d​i​r​e​c​t​e​d​ ​o​n​ ​t​h​e​ ​p​a​c​k​e​t​,​ ​u​n​t​i​l​ ​j​u​s​t​ ​t​e​n​d​e​r​,​ ​t​h​e​n​ ​d​r​a​i​n​ ​w​e​l​l​.​ ​M​e​a​n​w​h​i​l​e​,​ ​h​e​a​t​ ​t​h​e​ ​o​i​l​ ​i​n​ ​a​ ​p​a​n​.​ ​A​d​d​ ​t​h​e​ ​o​n​i​o​n​ ​a​n​d​ ​c​o​o​k​ ​i​t​ ​o​v​e​r​ ​a​ ​m​e​d​i​u​m​ ​h​e​a​t​ ​f​o​r​ ​4​-​5​ ​m​i​n​s​,​ ​u​n​t​i​l​ ​i​t​ ​s​t​a​r​t​s​ ​t​o​ ​s​o​f​t​e​n​.​ ​A​d​d​ ​g​r​o​u​n​d​ ​b​e​e​f​ ​a​n​d​ ​c​e​l​e​r​y​ ​t​o​ ​p​a​n​ ​a​n​d​ ​c​o​o​k​ ​f​o​r​ ​a​ ​f​u​r​t​h​e​r​ ​5​-​8​ ​m​i​n​s​,​ ​s​t​i​r​r​i​n​g​ ​w​e​l​l​ ​s​o​ ​t​h​e​ ​m​e​a​t​ ​b​r​o​w​n​s​ ​a​l​l​ ​o​v​e​r​.​ ​A​d​d​ ​f​l​o​u​r​ ​t​o​ ​t​h​e​ ​p​a​n​ ​a​n​d​ ​c​o​o​k​ ​f​o​r​ ​a​ ​f​u​r​t​h​e​r​ ​m​i​n​u​t​e​,​ ​s​t​i​r​r​i​n​g​ ​u​n​t​i​l​ ​t​h​e​ ​m​i​x​t​u​r​e​ ​h​a​s​ ​t​h​i​c​k​e​n​e​d​,​ ​t​h​e​n​ ​s​t​i​r​ ​i​n​ ​t​h​e​ ​t​o​m​a​t​o​e​s​ ​a​n​d​ ​2​/​3​ ​c​u​p​ ​b​o​i​l​i​n​g​ ​w​a​t​e​r​.​ ​S​t​i​r​ ​w​e​l​l​ ​w​h​i​l​e​ ​t​h​e​ ​m​i​x​t​u​r​e​ ​c​o​m​e​s​ ​t​o​ ​t​h​e​ ​b​o​i​l​.​ ​S​t​i​r​ ​i​n​ ​s​t​o​c​k​ ​c​u​b​e​,​ ​t​h​e​n​ ​a​d​d​ ​t​h​e​ ​W​o​r​c​e​s​t​e​r​s​h​i​r​e​ ​s​a​u​c​e​ ​a​n​d​ ​s​e​a​s​o​n​i​n​g​ ​t​o​ ​t​a​s​t​e​.​ ​S​i​m​m​e​r​ ​f​o​r​ ​2​-​3​ ​m​i​n​u​t​e​s​ ​R​e​m​o​v​e​ ​t​h​e​ ​p​a​n​ ​f​r​o​m​ ​h​e​a​t​ ​a​n​d​ ​s​t​i​r​ ​i​n​ ​d​r​a​i​n​e​d​ ​p​a​s​t​a​.​ ​T​i​p​ ​t​h​e​ ​m​i​x​t​u​r​e​ ​o​u​t​ ​i​n​t​o​ ​a​ ​g​r​a​t​i​n​ ​d​i​s​h​ ​a​n​d​ ​l​e​v​e​l​ ​t​h​e​ ​s​u​r​f​a​c​e​.​ ​T​o​ ​m​a​k​e​ ​t​h​e​ ​t​o​p​p​i​n​g​,​ ​m​e​l​t​ ​t​h​e​ ​b​u​t​t​e​r​ ​i​n​ ​a​ ​p​a​n​ ​a​n​d​ ​a​d​d​ ​f​l​o​u​r​.​ ​C​o​o​k​ ​f​o​r​ ​1​-​2​ ​m​i​n​s​ ​u​n​t​i​l​ ​m​i​x​t​u​r​e​ ​f​o​r​m​s​ ​a​ ​t​h​i​c​k​ ​p​a​s​t​e​,​ ​t​h​e​n​ ​g​r​a​d​u​a​l​l​y​ ​p​o​u​r​ ​i​n​ ​t​h​e​ ​m​i​l​k​,​ ​b​e​a​t​i​n​g​ ​w​e​l​l​ ​a​n​d​ ​a​l​l​o​w​i​n​g​ ​m​i​x​t​u​r​e​ ​t​o​ ​c​o​m​e​ ​t​o​ ​t​h​e​ ​b​o​i​l​ ​b​e​t​w​e​e​n​ ​e​a​c​h​ ​a​d​d​i​t​i​o​n​ ​o​f​ ​l​i​q​u​i​d​.​ ​R​e​m​o​v​e​ ​p​a​n​ ​f​r​o​m​ ​h​e​a​t​ ​a​n​d​ ​a​d​d​ ​m​u​s​t​a​r​d​ ​p​o​w​d​e​r​ ​a​n​d​ ​h​a​l​f​ ​t​h​e​ ​c​h​e​e​s​e​.​ ​S​e​a​s​o​n​ ​t​o​ ​t​a​s​t​e​.​ ​S​p​o​o​n​ ​s​a​u​c​e​ ​o​v​e​r​ ​p​a​s​t​a​,​ ​s​p​r​e​a​d​i​n​g​ ​i​t​ ​t​o​ ​c​o​v​e​r​.​ ​S​p​r​i​n​k​l​e​ ​r​e​m​a​i​n​i​n​g​ ​c​h​e​e​s​e​ ​o​v​e​r​.​ ​B​a​k​e​ ​i​n​ ​t​h​e​ ​c​e​n​t​r​e​ ​o​f​ ​t​h​e​ ​o​v​e​n​ ​f​o​r​ ​3​0​-​4​0​ ​m​i​n​s​,​ ​o​r​ ​u​n​t​i​l​ ​t​h​e​ ​m​i​x​t​u​r​e​ ​i​s​ ​g​o​l​d​e​n​ ​o​n​ ​t​o​p​ ​a​n​d​ ​s​i​z​z​l​i​n​g​ ​h​o​t​.​ ​S​e​r​v​e​ ​i​m​m​e​d​i​a​t​e​l​y​.​",zero_width_space,recipes,,human
+95,"  We consider the orbit type filtration on a manifold $X$ with locally standard
+action of a compact torus and the corresponding homological spectral sequence
+$(E_X)^r_{*,*}$. If all proper faces of the orbit space $Q=X/T$ are acyclic,
+and the free part of the action is trivial, this spectral sequence can be
+described in full. The ranks of diagonal terms are equal to the $h'$-numbers of
+the Buchsbaum simplicial poset $S_Q$ dual to $Q$. Betti numbers of $X$ depend
+only on the orbit space $Q$ but not on the characteristic function. If $X$ is a
+slightly different object, namely the model space $X=(P\times T^n)/\sim$ where
+$P$ is a cone over Buchsbaum simplicial poset $S$, we prove that $\dim
+(E_X)^{\infty}_{p,p} = h''_p(S)$. This gives a topological evidence for the
+fact that $h''$-numbers of Buchsbaum simplicial posets are nonnegative.
+",alternative_spelling,abstracts,,human
+96,"George Michael is to perform live at London's Abbey Road studios as part of a BBC Radio 4 special next month.
+The session, which will broadcast on 01 December, will also see him talk about how his biggest hits came about. Michael's appearance is part of the station's Sold on Song initiative, which explores the art of songwriting. The station also confirmed that Chris Tarrant will be hosting a one-off New Year's Eve programme. He left London's Capital FM this year after 17 years. The former breakfast show host - who attracted some of the highest ratings in Britain, despite only broadcasting to London - will offer his own individual take on the year in the two-hour show. ""This should be great fun,"" Tarrant said. ""I've had a fantastic year and I know that lots of other people have as well. I'm definitely looking forward to being on Radio 2."" Other Christmas specials from Radio 2 include singer Jamelia hosting a Christmas Day concert from the London Community Gospel Choir, while actor Christopher Lee will read Fireside Tales from the likes of Edgar Allan Poe, E Nesbit and Ambrose Bierce. Comedian Harry Hill will host a spoof nostalgia show on Christmas Day, while singer Jamie Cullum will perform a live concert for the station.",number,news,,human
+97,"Nicole Kelly is an Australian contemporary Christian folk artist and guitarist. She rose to fame in the mid-2000s as part of the trio The Cheetah Boys, which also included Laura Bailon, Stephanie Kelly, and Kiely Brown. After departing the group in 2007, she pursued a solo career and has produced many successful songs, including ""The Lost Get Found"" (2008), ""Gold"" (2013), and ""LOVE ADDICTTM: Relapse/Remixes"" (2015). Her hit singles include ""Believe"", ""You,"" and ""Tongues."" In addition to her artistic career, Nicole Nicole is recognized for her activist work with groups such as Compassion Global and To Write Love on Her Arms. She was born on February 3, 1984, in Miami, Florida, and still resides there with her wife and kids.",synonym,wiki,yes,mpt-chat
+98,"In this paper, we propose a novel approach to medical image segmentation using multi-task attention-based semi-supervised learning. Medical image segmentation is a crucial task in healthcare, but it can be challenging due to the limited availability of annotated data. 
+
+To address this challenge, we leverage the power of semi-supervised learning, which allows us to utilize both labeled and unlabeled data during training. 
+
+Our proposed approach uses a multi-task attention mechanism that enables the model to learn multiple tasks simultaneously, including image segmentation and image classification. 
+
+The attention mechanism allows the model to focus on the most relevant tasks and adapt to the complexity of the input data. We evaluate our approach on several publicly available medical image datasets and show that it outperforms traditional supervised learning methods that rely solely on labeled data. In addition, we perform a series of ablation studies to analyze the effectiveness of different components of our proposed approach. Our results demonstrate that the multi-task attention mechanism is essential for improving segmentation accuracy, and that the use of unlabeled data can significantly improve performance. Our approach has important implications for medical image segmentation tasks, particularly in scenarios where annotated data is scarce. 
+
+By leveraging large amounts of unlabeled data, our method can improve the efficiency and accuracy of segmentation models, which can ultimately lead to better patient outcomes. 
+
+This work has the potential to enable more widespread use of medical image segmentation in clinical settings, and to support the development of new applications in medical imaging research.",insert_paragraphs,abstracts,no,llama-chat
+99,"If   life is still bad for me even  when I come out of lockdown I am  planning on  killing myself, I don’t want to  say I “tried” killing myself in the past but  I was just way too  afraid to go  though with it, I  stopped  myself  nobody  else stopped me so I don’t think I  would consider  saying I “tried” because if I tried I actually would  have killed myself but  just curious has anybody ever tried  hanging them self because that’s what I am thinking of doing to  actually kill myself and I want to know  if it   hurt for anybody who has attempted it. BTW this is not a cry  for help,  if  you comment some bs life lesson to me then I will not even read your comment I will just  delete it, if you want to help me then  kill  me, it my life my choice so please don’t  come with some  positive  attitude  towards me.",whitespace,reddit,,human
